@@ -1,0 +1,534 @@
+# Translation of the WordPress plugin WP Bannerize 3.0 by Giovambattista Fazioli.
+# Copyright (C) 2011 Giovambattista Fazioli
+# This file is distributed under the same license as the WP Bannerize package.
+# FIRST AUTHOR <g.fazioli@undolog.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-bannerize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-07 11:29+0100\n"
+"PO-Revision-Date: 2013-11-07 11:29+0100\n"
+"Last-Translator: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language-Team: g.fazioli@undolog.com <g.fazioli@undolog.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Classes/wpBannerizeAdmin.php:68
+msgid "Publish"
+msgstr "Yayınla"
+
+#: ../Classes/wpBannerizeAdmin.php:233
+msgid "WARINING!! Do you want delete this banner?"
+msgstr "DİKKAT!! Bu bannere'ı silmek istiyormusun?"
+
+#: ../Classes/wpBannerizeAdmin.php:234
+msgid "WARINING!! Do you have to check `Confirm unreversible action` "
+msgstr "DİKKAT!! Kontrol etmek istermisin `Geri dönüşü olmayan işlemi onayla`"
+
+#: ../Classes/wpBannerizeAdmin.php:235
+msgid "WARINING!! Are you sure to erase all WP Bannerize Database Table? "
+msgstr "DİKKAT!! Tüm WP Bannerize tablosunu silmek istediğine eminmisin?"
+
+#: ../Classes/wpBannerizeAdmin.php:236
+msgid "Choose Time"
+msgstr "Zaman Seç"
+
+#: ../Classes/wpBannerizeAdmin.php:237
+msgid "Time"
+msgstr "Zaman"
+
+#: ../Classes/wpBannerizeAdmin.php:238
+msgid "Hour"
+msgstr "Saat"
+
+#: ../Classes/wpBannerizeAdmin.php:239
+msgid "Minute"
+msgstr "Dakika"
+
+#: ../Classes/wpBannerizeAdmin.php:240
+msgid "Seconds"
+msgstr "Saniyeler"
+
+#: ../Classes/wpBannerizeAdmin.php:241
+msgid "Now"
+msgstr "Şimdi"
+
+#: ../Classes/wpBannerizeAdmin.php:242
+msgid "Su,Mo,Tu,We,Th,Fr,Sa"
+msgstr "Pzr,Pzrts,Sl,Çrş,Prş,Cu,Cts"
+
+#: ../Classes/wpBannerizeAdmin.php:243
+msgid ""
+"January,February,March,April,May,June,July,August,September,October,November,"
+"December"
+msgstr ""
+"Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık"
+
+#: ../Classes/wpBannerizeAdmin.php:244
+msgid "Close"
+msgstr "Kapat"
+
+#: ../Classes/wpBannerizeAdmin.php:245 ../Classes/wpBannerizeAdmin.php:1997
+#: ../Classes/wpBannerizeAdmin.php:2033
+msgid "mm/dd/yy"
+msgstr "ay/gün/yıl"
+
+#: ../Classes/wpBannerizeAdmin.php:256
+msgid "PHP Function and Shortcode Editor"
+msgstr "PHP Fonksiyon ve Kısakod Düzenleyici"
+
+#: ../Classes/wpBannerizeAdmin.php:257
+msgid "Database"
+msgstr "Veritabanı"
+
+#: ../Classes/wpBannerizeAdmin.php:262 ../Classes/wpBannerizeAdmin.php:450
+#: ../Classes/wpBannerizeAdmin.php:1829
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../Classes/wpBannerizeAdmin.php:311
+msgid "Settings update succesfully!"
+msgstr "Ayarlar Başarıyla Güncellendi!"
+
+#: ../Classes/wpBannerizeAdmin.php:316
+msgid "Settings Reset to default succesfully!"
+msgstr "Ayarları varsayılana sıfırlama baralı!"
+
+#: ../Classes/wpBannerizeAdmin.php:381
+msgid "WP Bannerize Table was erase succesfully!"
+msgstr "WP Bannerize Tablosu başarıyla silindi!"
+
+#: ../Classes/wpBannerizeAdmin.php:442 ../Classes/wpBannerizeAdmin.php:991
+#: ../Classes/wpBannerizeAdmin.php:992
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../Classes/wpBannerizeAdmin.php:446 ../Classes/wpBannerizeAdmin.php:638
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: ../Classes/wpBannerizeAdmin.php:454
+msgid "Tools"
+msgstr "Araçlar"
+
+#: ../Classes/wpBannerizeAdmin.php:488
+msgid "Insert a new banner"
+msgstr "Yeni banner ekle"
+
+#: ../Classes/wpBannerizeAdmin.php:499 ../Classes/wpBannerizeAdmin.php:1061
+msgid "Banner"
+msgstr "Banner"
+
+#: ../Classes/wpBannerizeAdmin.php:505 ../Classes/wpBannerizeAdmin.php:1065
+msgid "From local"
+msgstr "Bilgisayardan"
+
+#: ../Classes/wpBannerizeAdmin.php:507 ../Classes/wpBannerizeAdmin.php:1067
+msgid "By URL o Media Library"
+msgstr "URL veya Medya Kütüphanesinden"
+
+#: ../Classes/wpBannerizeAdmin.php:509 ../Classes/wpBannerizeAdmin.php:1069
+msgid "Free HTML"
+msgstr "Serbest HTML"
+
+#: ../Classes/wpBannerizeAdmin.php:520 ../Classes/wpBannerizeAdmin.php:1079
+msgid "Media Library Image"
+msgstr "Medya Kütüphanesi Resmi"
+
+#: ../Classes/wpBannerizeAdmin.php:530 ../Classes/wpBannerizeAdmin.php:1089
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+#: ../Classes/wpBannerizeAdmin.php:535 ../Classes/wpBannerizeAdmin.php:1099
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+#: ../Classes/wpBannerizeAdmin.php:538
+msgid "Leave empty to always visible"
+msgstr "Her zaman görünmesi için boş bırak"
+
+#: ../Classes/wpBannerizeAdmin.php:539 ../Classes/wpBannerizeAdmin.php:1104
+msgid "Server Date/time"
+msgstr "Sunucu Tarih/Zaman"
+
+#: ../Classes/wpBannerizeAdmin.php:546 ../Classes/wpBannerizeAdmin.php:819
+#: ../Classes/wpBannerizeAdmin.php:839 ../Classes/wpBannerizeAdmin.php:1109
+#: ../Classes/wpBannerizeTools.php:9 ../Classes/wpBannerizeWidget.php:134
+msgid "Group"
+msgstr "Grup"
+
+#: ../Classes/wpBannerizeAdmin.php:551
+msgid "Insert a key max 128 chars"
+msgstr "En fazla 128 karakterlik bir anahtar gir"
+
+#: ../Classes/wpBannerizeAdmin.php:556 ../Classes/wpBannerizeAdmin.php:821
+#: ../Classes/wpBannerizeAdmin.php:841 ../Classes/wpBannerizeAdmin.php:1114
+msgid "Description"
+msgstr "Açıklama"
+
+#: ../Classes/wpBannerizeAdmin.php:561 ../Classes/wpBannerizeAdmin.php:1118
+msgid "Use this description in output"
+msgstr "Bu açıklamayı çıkışta kullan"
+
+#: ../Classes/wpBannerizeAdmin.php:565 ../Classes/wpBannerizeAdmin.php:1122
+msgid "URL"
+msgstr "URL"
+
+#: ../Classes/wpBannerizeAdmin.php:568 ../Classes/wpBannerizeAdmin.php:1124
+msgid "Target"
+msgstr "Hedef"
+
+#: ../Classes/wpBannerizeAdmin.php:575 ../Classes/wpBannerizeAdmin.php:1143
+msgid "Max Impressions"
+msgstr "En fazla izlenim"
+
+#: ../Classes/wpBannerizeAdmin.php:580
+msgid ""
+"When Impressions are great than this value then this banner is set to hidden"
+msgstr "Eğer izlenimler bu değerden yüksekse banner'ı gizle"
+
+#: ../Classes/wpBannerizeAdmin.php:587
+#, fuzzy
+msgid "Add \"nofollow\" attribute"
+msgstr "Nofollow niteliği ekle"
+
+#: ../Classes/wpBannerizeAdmin.php:595
+msgid "Insert"
+msgstr "İçine ekle"
+
+#: ../Classes/wpBannerizeAdmin.php:785 ../Classes/wpBannerizeAdmin.php:873
+msgid "Actions"
+msgstr "Eylemler"
+
+#: ../Classes/wpBannerizeAdmin.php:787 ../Classes/wpBannerizeAdmin.php:875
+#: ../Classes/wpBannerizeAdmin.php:994 ../Classes/wpBannerizeAdmin.php:995
+msgid "Trash"
+msgstr "Çöp"
+
+#: ../Classes/wpBannerizeAdmin.php:789 ../Classes/wpBannerizeAdmin.php:877
+#: ../Classes/wpBannerizeAdmin.php:1004 ../Classes/wpBannerizeAdmin.php:1005
+msgid "Restore"
+msgstr "Geri Yükle"
+
+#: ../Classes/wpBannerizeAdmin.php:790 ../Classes/wpBannerizeAdmin.php:878
+#: ../Classes/wpBannerizeAdmin.php:1001 ../Classes/wpBannerizeAdmin.php:1002
+msgid "Delete"
+msgstr "Sil"
+
+#: ../Classes/wpBannerizeAdmin.php:794 ../Classes/wpBannerizeAdmin.php:882
+msgid "Apply"
+msgstr "Uygula"
+
+#: ../Classes/wpBannerizeAdmin.php:799
+msgid "Filter"
+msgstr "Filtre"
+
+#: ../Classes/wpBannerizeAdmin.php:804 ../Classes/wpBannerizeAdmin.php:886
+#, php-format
+msgid "Showing %s-%s of %s"
+msgstr "%s-%s 'den %s gösterme"
+
+#: ../Classes/wpBannerizeAdmin.php:818 ../Classes/wpBannerizeAdmin.php:838
+msgid "Image"
+msgstr "Resim"
+
+#: ../Classes/wpBannerizeAdmin.php:823 ../Classes/wpBannerizeAdmin.php:1129
+msgid "Click Counter"
+msgstr "Tıklama Sayacı"
+
+#: ../Classes/wpBannerizeAdmin.php:826 ../Classes/wpBannerizeAdmin.php:1134
+msgid "Impressions"
+msgstr "İzlenimler"
+
+#: ../Classes/wpBannerizeAdmin.php:895
+msgid "No Banner found!"
+msgstr "Banner bulunamadı!"
+
+#: ../Classes/wpBannerizeAdmin.php:969 ../Classes/wpBannerizeAdmin.php:971
+msgid "Always"
+msgstr ""
+
+#: ../Classes/wpBannerizeAdmin.php:998
+msgid "View"
+msgstr "Göster"
+
+#: ../Classes/wpBannerizeAdmin.php:1155
+msgid "Add nofollow attribute"
+msgstr "Nofollow niteliği ekle"
+
+#: ../Classes/wpBannerizeAdmin.php:1160
+msgid "Width"
+msgstr "Genişlik"
+
+#: ../Classes/wpBannerizeAdmin.php:1164
+msgid "Height"
+msgstr "Yükseklik"
+
+#: ../Classes/wpBannerizeAdmin.php:1170 ../Classes/wpBannerizeAdmin.php:1171
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../Classes/wpBannerizeAdmin.php:1173 ../Classes/wpBannerizeAdmin.php:1174
+#: ../Classes/wpBannerizeSettings.php:108
+msgid "Update"
+msgstr "Güncelle"
+
+#: ../Classes/wpBannerizeAdmin.php:1192
+msgid "All groups"
+msgstr "Tüm Gruplar"
+
+#: ../Classes/wpBannerizeAdmin.php:1385 ../Classes/wpBannerizeAdmin.php:1447
+#: ../Classes/wpBannerizeAdmin.php:1515
+msgid "Banner added succesfully!"
+msgstr "Banner başarıyla eklendi!"
+
+#: ../Classes/wpBannerizeAdmin.php:1389
+msgid "Error on insert Free HTML banner type"
+msgstr "Serbest HTML banner şeklinde eklerken hata"
+
+#: ../Classes/wpBannerizeAdmin.php:1451
+msgid "Error on insert URL banner type"
+msgstr "URL banner şeklinde eklerken hata"
+
+#: ../Classes/wpBannerizeAdmin.php:1519
+msgid "Error on insert local banner type"
+msgstr "Bilgisayardan banner eklerken hata"
+
+#: ../Classes/wpBannerizeAdmin.php:1524
+#, php-format
+msgid "Error while copying [%s] [%s bytes] - [%s]"
+msgstr "%s] [%s bytes] - [%s] kopyalama sırasında hata"
+
+#: ../Classes/wpBannerizeAdmin.php:1530
+#, php-format
+msgid "No file to upload! - [%s]"
+msgstr "Yüklemek için dosya yok! - [%s]"
+
+#: ../Classes/wpBannerizeAdmin.php:1549
+msgid "Banner sent to trash succesfully!"
+msgstr "Banner başarıyla çöpe taşındı!"
+
+#: ../Classes/wpBannerizeAdmin.php:1566
+msgid "Banner restore from trash succesfully!"
+msgstr "Banner başarıyla çöpten geri yüklendi!"
+
+#: ../Classes/wpBannerizeAdmin.php:1596
+msgid "Banner delete succesfully!"
+msgstr "Banner başarıyla silindi!"
+
+#: ../Classes/wpBannerizeAdmin.php:1657 ../Classes/wpBannerizeAdmin.php:1735
+#: ../Classes/wpBannerizeAdmin.php:1794
+msgid "Banner update succesfully!"
+msgstr "Banner başarıyla güncellendi!"
+
+#: ../Classes/wpBannerizeAdmin.php:1661
+#, fuzzy
+msgid "Error while update free HTML Banner!"
+msgstr "Bilgisayardan yüklenen banner güncellenirken hata!"
+
+#: ../Classes/wpBannerizeAdmin.php:1739 ../Classes/wpBannerizeAdmin.php:1798
+msgid "Error while update local Banner!"
+msgstr "Bilgisayardan yüklenen banner güncellenirken hata!"
+
+#: ../Classes/wpBannerizeAdmin.php:1846
+#, fuzzy
+msgid "For more info visit"
+msgstr "Daha fazla bilgi ve eklenti için git"
+
+#: ../Classes/wpBannerizeAdmin.php:1953
+msgid "Numer of rows"
+msgstr "Satır numaraları"
+
+#: ../Classes/wpBannerizeAdmin.php:1954
+msgid "Size"
+msgstr "Boyut"
+
+#: ../Classes/wpBannerizeDatabase.php:9
+msgid "Status"
+msgstr "Durum"
+
+#: ../Classes/wpBannerizeDatabase.php:14
+msgid "Clear"
+msgstr "Temizle"
+
+#: ../Classes/wpBannerizeDatabase.php:15
+msgid ""
+"Removes all data from WP Bannerize Table. This operation is irreversible! "
+"Make a backup before proceding."
+msgstr ""
+"WP Bannerize Tablosundaki tüm veriyi kaldır. Bu işlemin geri dönüşümü yok!  "
+"İşlemden önce mutlaka yedek alın."
+
+#: ../Classes/wpBannerizeDatabase.php:18
+msgid "Remove uploaded images"
+msgstr "Yüklenen resmi kaldır"
+
+#: ../Classes/wpBannerizeDatabase.php:24
+msgid "Initialize"
+msgstr "Sıfırlama"
+
+#: ../Classes/wpBannerizeDatabase.php:27
+msgid "Please, confirm irreversible action"
+msgstr "Lütfen, geri dönüşümü olmayan işlemi onaylayın"
+
+#: ../Classes/wpBannerizeHelp.php:1
+msgid "How to"
+msgstr "Nasıl yapılır"
+
+#: ../Classes/wpBannerizeHelp.php:2
+msgid ""
+"To display your banner use Widget area, PHP or Wordpress shortcode in your "
+"post and page"
+msgstr ""
+"Banner gösterimi için Widget alanı, PHP veya Wordpress kısa kodlarını yazı "
+"ve sayfalarda kullanın"
+
+#: ../Classes/wpBannerizeHelp.php:3
+msgid "Usage from PHP"
+msgstr "PHP kullanımı"
+
+#: ../Classes/wpBannerizeHelp.php:8
+msgid "Arguments for PHP function"
+msgstr "PHP fonksiyonu için argümanlar"
+
+#: ../Classes/wpBannerizeHelp.php:18
+msgid "Usage from shortcode"
+msgstr "Kısa kod kullanımı"
+
+#: ../Classes/wpBannerizeHelp.php:22
+msgid "Deprecated"
+msgstr "Önerilmeyen"
+
+#: ../Classes/wpBannerizeHelp.php:23
+msgid "These arguments are no longer supported"
+msgstr "Bu argümanlar daha fazla desteklenmiyor"
+
+#: ../Classes/wpBannerizeHelp.php:30
+msgid "The shortcode"
+msgstr "Kısa kod"
+
+#: ../Classes/wpBannerizeSettings.php:11
+msgid "Turn on Click Counter"
+msgstr "Tıklama Sayacını Açın"
+
+#: ../Classes/wpBannerizeSettings.php:21
+msgid "Turn on Impressions"
+msgstr "İzlenimleri Açın"
+
+#: ../Classes/wpBannerizeSettings.php:30
+msgid "Link description"
+msgstr "Link açıklaması"
+
+#: ../Classes/wpBannerizeSettings.php:42
+msgid "Support WP Bannerize"
+msgstr "WP Bannerize Destekleyin"
+
+#: ../Classes/wpBannerizeSettings.php:48
+msgid "Append Powered by..."
+msgstr "Tarafından Desteklenmektedir... Ekle"
+
+#: ../Classes/wpBannerizeSettings.php:54
+msgid "Adobe Flash Window Mode"
+msgstr "Adobe Flash Pencere Kipi"
+
+#: ../Classes/wpBannerizeSettings.php:65
+msgid "Frontend Style"
+msgstr "Ön uç stili"
+
+#: ../Classes/wpBannerizeSettings.php:72
+msgid "Default: vertical"
+msgstr "Varsayılan: Dikey"
+
+#: ../Classes/wpBannerizeSettings.php:74
+msgid "Inline: side by side"
+msgstr "Satır içi: yan yana"
+
+#: ../Classes/wpBannerizeSettings.php:78
+msgid "Custom rules"
+msgstr "Özel kurallar"
+
+#: ../Classes/wpBannerizeSettings.php:95
+msgid "Default HTML/message for no banner"
+msgstr "Banner olmadığında varsayılan HTML/mesaj"
+
+#: ../Classes/wpBannerizeSettings.php:110
+msgid "Reset to Default"
+msgstr "Varsayılana Sıfırla"
+
+#: ../Classes/wpBannerizeTools.php:11
+msgid "Any"
+msgstr "Herhangi"
+
+#: ../Classes/wpBannerizeTools.php:16 ../Classes/wpBannerizeWidget.php:137
+msgid "Random"
+msgstr "Rasgele"
+
+#: ../Classes/wpBannerizeTools.php:23 ../Classes/wpBannerizeWidget.php:143
+msgid "No HTML wrap"
+msgstr "HTML dolanım yok"
+
+#: ../Classes/wpBannerizeTools.php:30
+msgid "Limit"
+msgstr "Sınır"
+
+#: ../Classes/wpBannerizeTools.php:38 ../Classes/wpBannerizeWidget.php:151
+msgid "HTML Tag before banner"
+msgstr "Banner öncesi HTML etiketi"
+
+#: ../Classes/wpBannerizeTools.php:42 ../Classes/wpBannerizeWidget.php:160
+msgid "HTML Tag after banner"
+msgstr "Banner sonrası HTML etiketi"
+
+#: ../Classes/wpBannerizeTools.php:49
+msgid "Show banners only for following categories"
+msgstr "Sadece takip eden kategoriler için banner göster"
+
+#: ../Classes/wpBannerizeTools.php:63
+msgid "Click in the text area and copy code below"
+msgstr "Yazı alanına tıkla ve alttaki kodu kopyala"
+
+#: ../Classes/wpBannerizeTools.php:69
+msgid "PHP Function"
+msgstr "PHP Fonksiyon"
+
+#: ../Classes/wpBannerizeTools.php:79
+msgid "Wordpress shortcode"
+msgstr "Wordpress kısa kod"
+
+#: ../Classes/wpBannerizeWidget.php:45
+msgid "Amazing Banner Manager"
+msgstr "Mükemmel Banner Yönetici"
+
+#: ../Classes/wpBannerizeWidget.php:128
+msgid "Title"
+msgstr "Başlık"
+
+#: ../Classes/wpBannerizeWidget.php:171
+msgid "Show only for these Categories"
+msgstr "Sadece bu kategori için göster"
+
+#: ../Classes/wpBannerizeWidget.php:178
+msgid "Max"
+msgstr "En fazla"
+
+#~ msgid "Add “nofollow“ attribute"
+#~ msgstr "“nofollow“ niteliği ekle"
+
+#, fuzzy
+#~ msgid ""
+#~ "This software is free. You don't need to donate money to support it. Just "
+#~ "talk about it."
+#~ msgstr ""
+#~ "Bu program ücretsiz. Desteklemek için bağış yapmanız gerekmez. Sadece "
+#~ "hakında yorum yapınız."
+
+#~ msgid "Banner from"
+#~ msgstr "Banner buradan"

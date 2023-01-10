@@ -1,0 +1,186 @@
+form.wpBannerizeFormAction
+{ float : left; margin-left : 16px }
+
+form.wpBannerizeFormAction input
+{ cursor : pointer }
+
+form.wpBannerizeForm input#group_key, form.wpBannerizeForm input#description, form.wpBannerizeForm input#filename, form.wpBannerizeForm input#url
+{ width : 300px }
+
+form.wpBannerizeForm input.number, form.wpBannerizeForm input#group_key
+{ text-align : right }
+
+form.wpBannerizeForm input[type=radio], form.wpBannerizeForm input[type=checkbox], form.wpBannerizeForm input[type=submit], form.wpBannerizeForm input[type=button]
+{ cursor : pointer }
+
+form.wpBannerizeForm fieldset, .inline-edit fieldset
+{ border : 2px groove #fff; padding : 8px !important; margin : 8px 0 16px; -moz-border-radius : 6px; -webkit-border-radius : 6px; border-radius : 6px }
+
+form.wpBannerizeForm fieldset legend, .inline-edit fieldset legend
+{ font-weight : bold; padding : 0 8px !important; color : #78b; text-shadow : 1px 1px 0 #fff }
+
+form.wpBannerizeForm fieldset legend strong
+{ font-size : 14px }
+
+form.wpBannerizeForm fieldset input[type=radio], .inline-edit fieldset input[type=radio]
+{ margin-left : 12px }
+
+form.wpBannerizeForm fieldset input[type=radio]:first-child, .inline-edit fieldset input[type=radio]:first-child
+{ margin : 0 }
+
+form.wpBannerizeForm fieldset input#filenameFromURL, .inline-edit fieldset input#filenameFromURL
+{ width : 320px }
+
+form.wpBannerizeForm textarea#wpBannerizeStyleCustom, form.wpBannerizeForm textarea#freeHTML, .inline-edit fieldset textarea#freeHTML
+{ font-family : Monaco, 'Courier New'; font-size : 11px; width : 100%; height : 200px; resize : vertical }
+
+form.wpBannerizeForm input.sizeLarge
+{ width : 200px }
+
+form.wpBannerizeForm input.sizeMedium
+{ width : 100px }
+
+form.wpBannerizeForm input.sizeSmall
+{ width : 50px }
+
+form.wpBannerizeForm input.date, form.wpBannerizeForm input#maxImpressions
+{ text-align : right }
+
+span.wpBannerizeAjaxLoader
+{ padding : 12px; background : url(images/wait.gif) center center no-repeat; float : right }
+
+textarea#wpBannerizeEditorPHPFunction, textarea#wpBannerizeEditorWordpressShortcode, textarea#wpBannerizeStyleCustom, textarea#wpBannerizeNoBannerHTMLMessage
+{ font-family : Monaco, 'Courier New'; font-size : 11px; width : 100%; height : 64px; resize : none; background : #444; color : #fa0 }
+
+textarea#wpBannerizeStyleCustom
+{ height : 200px; color : #fd0 }
+
+textarea#wpBannerizeStyleCustom.disabled
+{ color : #aaa }
+
+textarea#wpBannerizeNoBannerHTMLMessage
+{ color : #fd0 }
+
+h3.wp_bannerize_alert
+{ color : #f40 }
+
+p.wp_bannerize_alert
+{ padding : 16px; border : 1px solid #f90; background : #fc0; -moz-border-radius : 6px; -webkit-border-radius : 6px; border-radius : 6px }
+
+h3.wp_bannerize_info
+{ color : #0a0 }
+
+p.wp_bannerize_info
+{ padding : 16px; border : 1px solid #a9a; background : #cfc; -moz-border-radius : 6px; -webkit-border-radius : 6px; border-radius : 6px }
+
+div.arrow
+{ width : 16px; height : 16px; background : url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAB3RJTUUH1wsTEREmaqMg/QAAAAlwSFlzAAAewQAAHsEBw2lUUwAAAARnQU1BAACxjwv8YQUAAAFfSURBVHjaY2DAA4qPpZ8sOJR6BJ8aJlwSRUfTLoqyiJuJsolZZ+yIPY9LHSO6QMnxDLZ/f/9dBWpUUeBRYvj37x/DjTfXGR6+eXTr96/fusujNvzC64K/f/5u/fP7j8yfP38Z/vz7w/Dn/x8GTmYuhl8/fskB8SaCLoCB1C3R/63krBn+Al1w8s5Jhrcf3liuS9l+Al0dCy4Dfv38zfD771+Gf///Mrx+95phQ9qOE9jU4THgF9CA32ADgE7HGQs4DQABUBj8BRqAD+A1gIWJhYHpPyN5BoCcDXPBT3K88PP7b3AY/CUnDLynOFtwsnIy/Aa64N8/kAt+4zQAIyF5TXLaAbRxv7iwONAFf8CGSElIMejkqn/XyFDZTdAAoH/9gM5/9PrNG0hKBOLfv4He+fnnye9ff7zR1eMMYuNS3fNSUtIGf4GJ6c7Nu5duzb6nz0Aq0MxUPaKaongSnxoA60G9X6vJ9toAAAAASUVORK5CYII=) no-repeat; float : left; margin : 6px 8px 0 0; cursor : pointer }
+
+table#list_bannerize td
+{ vertical-align : middle }
+
+td.wp-bannerize-thumbnail
+{ vertical-align : middle }
+
+td.wp-bannerize-thumbnail img
+{ max-width : 48px; border : 2px solid #000 }
+
+div.inline-edit
+{ padding : 10px; border : 1px solid #aaa; clear : both; display : block; -moz-border-radius : 8px; -webkit-border-radius : 8px; border-radius : 8px }
+
+div.inline-edit label
+{ display : block; width : 100px; float : left; font-weight : bold; text-align : right; margin : 0 6px 0 0; line-height : 24px; color : #666; text-shadow : 1px 1px 0 #fff }
+
+ul.list-point
+{ list-style : square; margin-left : 22px }
+
+table.form-table
+{ clear : none }
+
+table.wp_bannerize th
+{ text-align : right; vertical-align : middle }
+
+table.wp_bannerize th label, table.wp_bannerize td label
+{ font-weight : bold; color : #666; text-shadow : 1px 1px 0 #fff }
+
+a.wp_bannerize_flash
+{ background : url(images/flash.png) no-repeat; width : 48px; height : 48px; display : block }
+
+div.wp_common_box
+{ margin : 40px 4px 0; padding : 8px 8px 16px 8px; -moz-border-radius : 12px 12px 0 0; -webkit-border-radius : 12px 12px 0 0; border-radius : 12px 12px 0 0; -moz-box-shadow : 0 -5px 4px #444; -webkit-box-shadow : 0 -5px 4px #444; box-shadow : 0 -5px 4px #444; background-color : #ddd; background-image : -webkit-gradient(linear, left top, left bottom, from(#ddd), to(#fff)); background-image : -webkit-linear-gradient(top, #ddd, #fff); background-image : -moz-linear-gradient(top, #ddd, #fff); background-image : -ms-linear-gradient(top, #ddd, #fff); background-image : -o-linear-gradient(top, #ddd, #fff); background-image : linear-gradient(top, #ddd, #fff); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#ddd', EndColorStr='#fff') }
+
+div.wp_common_box a.wp_common_logo
+{ background : url("images/logo.png") 8px center no-repeat; display : block; font-family : "trebuchet MS", sans-serif; font-size : 26px; font-style : italic; height : 80px; letter-spacing : -1px; line-height : 80px; margin : 1px; padding-left : 76px; text-decoration : none; text-shadow : 1px 1px 0 #fff; -moz-border-radius : 8px 8px 0 0; -webkit-border-radius : 8px 8px 0 0; border-radius : 8px 8px 0 0 }
+
+div.wp_common_box p
+{ margin : 0 24px }
+
+div.wp_common_box p.wp_common_copy_info
+{ display : block; margin-top : 12px; position : absolute; right : 8px; text-align : right }
+
+th div.clickcounter
+{ background : url(images/clickcounter.png) no-repeat; width : 16px; height : 16px; margin : 0 auto }
+
+th div.impressions
+{ background : url(images/impressions.png) no-repeat; width : 16px; height : 16px; margin : 0 auto }
+
+span.start_date, span.end_date
+{ padding : 3px 12px; color : #fff; font-weight : bold; text-shadow : 1px 1px 1px #444; letter-spacing : 1px; -moz-border-radius : 12px; -webkit-border-radius : 12px; border-radius : 12px }
+
+span.end_date
+{ margin-left : 4px }
+
+span.enabled
+{ background-color : #a6c800; background-image : -webkit-gradient(linear, left top, left bottom, from(#a6c800), to(#609d00)); background-image : -webkit-linear-gradient(top, #a6c800, #609d00); background-image : -moz-linear-gradient(top, #a6c800, #609d00); background-image : -ms-linear-gradient(top, #a6c800, #609d00); background-image : -o-linear-gradient(top, #a6c800, #609d00); background-image : linear-gradient(top, #a6c800, #609d00); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#a6c800', EndColorStr='#609d00') }
+
+span.disabled
+{ background-color : #f00; background-image : -webkit-gradient(linear, left top, left bottom, from(#f00), to(#800)); background-image : -webkit-linear-gradient(top, #f00, #800); background-image : -moz-linear-gradient(top, #f00, #800); background-image : -ms-linear-gradient(top, #f00, #800); background-image : -o-linear-gradient(top, #f00, #800); background-image : linear-gradient(top, #f00, #800); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#f00', EndColorStr='#800') }
+
+span.eraser
+{ background : url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAkRJREFUeNp8k01oE0EUx9+MSUpyyMfBSyBCJB4lF2EVMcGQatLQgymePImHgCAEcghFUiyFkksOIlhWBBFUPAntVntRcxNzKeSmPWySo5BszCHfuzu+me6GtI198GeWefP7v7dvdglghEIhiMfjEIlEwOVygdPphCvFV0AxR1AUiMQAkgCM4PpVB/hpAAMd5chmsxAOhwX4n7huAkuufHm3RQgBJf2ACk+AHzxJg8EgnBM3TIA7aeXtVrfTAU3TYPXg/SYa3sXcTbCczoVXdt9saggzhs2bpjC5d/BhwwDI4JlbCw3wcPTX9qOr6U+vn2nttoAZwraJengIyzvb62iyShfB4/FYyufzsr58TYBgwfy502gcPzMxxAv0NDwajaRCoSBPJhMwDAM895Mzk7YF+3w+2Hu8/hw72Kfz8HA4lIrFoowdCNjWUvY2/FFV9DAFrDx5+gKvcQ+pKp2vXCqVZFxPwFwNrGyuJQS8n994iZV3EfvOWYdduVwuy4PB4MxAW60WUErB6/XC2sed3EPCVMrINzvv4JUrlYrc7/fPwM1mcwZnMpmcrus13K7z3G8YwREbgcMGeavzwdu24UQiIWCPx1Pn0Gf2V8A8SCqViqKJpCiK3Ov1xKaKA+OfbSAQgFgslkPzGprV+c3wGc0H8fv9vEoUD0jValXudruzpCRJOZx8DedU5zewKPjPFkBddLvdl7Hqpel0Kq7LPP54jnhDqClqYq1cOn9rlMkN3CgPaonf6JxM+5C1Gqf2xJl/AgwA0YlZ9QNE9UUAAAAASUVORK5CYII=) left center no-repeat; padding : 8px 16px 8px 4px; cursor : pointer }
+
+div.wpBannerizeSwitch
+{ width : 40px; height : 17px; padding : 1px 0 0 0; margin : 2px 12px 8px 0; float : left; background-color : #f00; background-image : -webkit-gradient(linear, left top, left bottom, from(#f00), to(#800)); background-image : -webkit-linear-gradient(top, #f00, #800); background-image : -moz-linear-gradient(top, #f00, #800); background-image : -ms-linear-gradient(top, #f00, #800); background-image : -o-linear-gradient(top, #f00, #800); background-image : linear-gradient(top, #f00, #800); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#f00', EndColorStr='#800'); -moz-box-shadow : inset 0 0 2px #444; -webkit-box-shadow : inset 0 0 2px #444; box-shadow : inset 0 0 2px #444; -moz-border-radius : 32px; -webkit-border-radius : 32px; border-radius : 32px }
+
+div.wpBannerizeSwitch div
+{ width : 16px; height : 16px; background-color : #ebebeb; background-image : -webkit-gradient(linear, left top, left bottom, from(#ebebeb), to(#d1d3da)); background-image : -webkit-linear-gradient(top, #ebebeb, #d1d3da); background-image : -moz-linear-gradient(top, #ebebeb, #d1d3da); background-image : -ms-linear-gradient(top, #ebebeb, #d1d3da); background-image : -o-linear-gradient(top, #ebebeb, #d1d3da); background-image : linear-gradient(top, #ebebeb, #d1d3da); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#ebebeb', EndColorStr='#d1d3da'); -moz-box-shadow : 0 0 1px #222, inset -1px 1px 1px #fff; -webkit-box-shadow : 0 0 1px #222, inset -1px 1px 1px #fff; box-shadow : 0 0 1px #222, inset -1px 1px 1px #fff; -moz-border-radius : 50%; -webkit-border-radius : 50%; border-radius : 50%; cursor : pointer }
+
+div.wpBannerizeSwitch.on
+{ background-color : #a6c800; background-image : -webkit-gradient(linear, left top, left bottom, from(#a6c800), to(#609d00)); background-image : -webkit-linear-gradient(top, #a6c800, #609d00); background-image : -moz-linear-gradient(top, #a6c800, #609d00); background-image : -ms-linear-gradient(top, #a6c800, #609d00); background-image : -o-linear-gradient(top, #a6c800, #609d00); background-image : linear-gradient(top, #a6c800, #609d00); filter : progid:DXImageTransform.Microsoft.gradient(startColorStr='#a6c800', EndColorStr='#609d00') }
+
+div.wpBannerizeSwitch.on div
+{ margin-left : 23px }
+
+span.wpBannerizeURL a
+{ background : #bbb url(images/external.png) 8px center no-repeat; padding : 4px 12px 4px 24px; text-shadow : 1px 1px 2px #666; font-size : 12px; font-weight : bold; color : #fff; -moz-border-radius : 16px; -webkit-border-radius : 16px; border-radius : 16px }
+
+span.wpBannerizeURL a:hover
+{ background-color : #d54e21 }
+
+div.wpBannerizeDescription,
+#wp_bannerize_list div.row-actions
+{ font-weight : bold; line-height : 24px; clear : both }
+
+.ui-timepicker-div .ui-widget-header
+{ margin-bottom : 8px }
+
+.ui-timepicker-div dl
+{ text-align : left }
+
+.ui-timepicker-div dl dt
+{ height : 25px }
+
+.ui-timepicker-div dl dd
+{ margin : -25px 0 10px 65px }
+
+.ui-timepicker-div .ui_tpicker_hour div
+{ padding-right : 2px }
+
+.ui-timepicker-div .ui_tpicker_minute div
+{ padding-right : 6px }
+
+.ui-timepicker-div .ui_tpicker_second div
+{ padding-right : 6px }
+
+.ui-timepicker-div td
+{ font-size : 90% }

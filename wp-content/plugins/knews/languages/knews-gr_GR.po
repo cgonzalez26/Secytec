@@ -1,0 +1,2583 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Knews\n"
+"Language: el\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles <mail@carlesrever.com>\n"
+"Language-Team: \n"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Schedule submit"
+msgstr "Υποβολή Προγραμματισμού"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(highest)"
+msgstr "(υψηλότερο)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(lowest)"
+msgstr "(χαμηλότερο)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(normal)"
+msgstr "(κανονικό)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Batch submit process has been properly scheduled."
+msgstr "Η υποβολή της διαδικασίας έχει προγραμματιστή κατάλληλα."
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Activate user directly (don't send e-mail confirmation)"
+msgstr "Απευθείας ενεργοποίηση του χρήστη (μη αποστολή αλληλογραφία επιβεβαίωσης)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Filter by state"
+msgstr "Φίλτρο ανά κατάσταση"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "No users match the search criteria"
+msgstr "Δεν βρέθηκαν χρήστες με τα κριτήρια αναζήτησης"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:142
+msgid "Active users"
+msgstr "Ενεργοί χρήστες"
+
+#: Text in echo
+#: admin/knews_admin_users.php:162
+msgid "Add extra field"
+msgstr "Προσθήκη επιπλέον πεδίου"
+
+#: Text in echo
+#: admin/knews_admin_users.php:178
+msgid "Add field"
+msgstr "Προσθήκη πεδίου"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:214
+msgid "Add newsletter"
+msgstr "Προσθήκη ενημερωτικού δελτίου (newsletter)"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:309
+msgid "All"
+msgstr "Ολα"
+
+#: Text in function
+#: admin/knews_admin_import.php:362
+msgid "All in"
+msgstr "Ολα σε"
+
+#: Text in echo
+#: admin/knews_admin_import.php:668
+msgid "And have been blocked in this import:"
+msgstr "Και έχουν μπλοκαριστεί σε αυτή την εισαγωγή:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:649
+msgid "And there have not been imported:"
+msgstr "Και δεν έχουν εισαχθεί:"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:155
+msgid "At the moment there is no list, you can create new ones"
+msgstr "Προς στιγμή δεν υπάρχει λίστα, μπορείτε να δημιουργήσετε καινούργιες"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:170
+msgid "At the moment there is no newsletter, you can create new ones"
+msgstr "Προς στιγμή δεν υπάρχει ενημερωτικό δελτίο (newsletter), μπορείτε να δημιουργήσετε καινούργια"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Automatically send confirmation e-mails:"
+msgstr "Αυτόματη αποστολή αλληλογραφίας επιβεβαίωσης:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:219
+msgid "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+msgstr "Προτού ενεργοποιήσετε την αποστολή SMTP, καταχωρήστε τις τιμές και τη δνση αλληλογραφίας και πατήστε στο πλήκτρο TEST"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Blocked"
+msgstr "Μπροκαριμένο"
+
+#: Text in echo
+#: admin/knews_admin_config.php:157
+msgid "CRON"
+msgstr "CRON"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has not yet been configured"
+msgstr "O CRON δεν έχει παραμετροποιηθεί ακόμα"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has stopped working."
+msgstr "O CRON έχει σταματήσει να δουλεύει."
+
+#: Text in echo
+#: admin/knews_admin_config.php:164
+msgid "CRON is properly configured"
+msgstr "Ο CRON έχει παραμετροποιηθεί κατάλληλα"
+
+#: Text in echo
+#: admin/knews_admin_import.php:228
+msgid "CSV File"
+msgstr "CSV Αρχείο"
+
+#: Text in echo
+#: admin/knews_admin_import.php:217
+msgid "CSV Upload"
+msgstr "CSV μεταφόρτωση"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+msgid "CSV total:"
+msgstr "CSV συνολικά:"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "I can't submit an e-mail to:"
+msgstr "Δεν μπορώ να υποβάλω μία δνση αλληλογραφίας προς:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:216
+msgid "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+msgstr "Προσοχή: Εάν ο SMTP διακομιστής σας είναι ανώνυμος, αφήστε τα πεδία του χρήστη και του κωδικού κενά"
+
+#: Text in echo
+#: admin/knews_admin_import.php:374
+msgid "Check dates"
+msgstr "Ελέγξτε τις ημερομηνίες"
+
+#: Text in function
+#: direct/edit_news.php:49
+msgid "Check the directory permissions for"
+msgstr "Ελέγξτε τα διακαιώματα του καταλόγου για"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "Select a column"
+msgstr "Επιλέξτε μία στήλη"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:179
+msgid "Choose a template"
+msgstr "Επιλέξτε ένα πρότυπο"
+
+#: Text in function
+#: knews.php:520
+msgid "Configuration"
+msgstr "Παραμετροποίηση"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Confirmed"
+msgstr "Επιβεβαιώθηκε"
+
+#: Text in echo
+#: admin/knews_admin_import.php:294
+msgid "Continue"
+msgstr "Συνέχεια"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:164
+msgid "Create a mailing list"
+msgstr "Δημιουργήστε μια λίστα αλληλογραφίας"
+
+#: Text in echo
+#: admin/knews_admin_users.php:421
+msgid "Create a subscriber manually"
+msgstr "Δημιουργήστε έναν συνδρομητή χειροκίνητα"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:159
+msgid "Create new mailing list"
+msgstr "Δημιουργήστε νέα λίστα αλληλογραφίας"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:175
+msgid "Create new newsletter"
+msgstr "Δημιουργήστε ένα νέο ενημερωτικό δελτίο"
+
+#: Text in echo
+#: admin/knews_admin_users.php:457
+msgid "Create a user"
+msgstr "Δημιουργήστε ένα χρήστη"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:153
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+#: Text in echo
+#: direct/knews_cron.php:135
+msgid "Cron-JS finished, you can close the window"
+msgstr "Cron-JS τελείωσε, μπορείτε να κλείσετε το παράθυρο"
+
+#: Text in echo
+#: direct/knews_cron.php:131
+msgid "Cron-JS in the process, don't close this window..."
+msgstr "Cron-JS σε διαδικασία, μην κλείσετε αυτό το παράθυρο..."
+
+#: Text in echo
+#: admin/knews_admin_config.php:85
+#: admin/knews_admin_config.php:143
+msgid "Customised messages"
+msgstr "Προσαρμοσμένα μηνύματα"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Date (day/month/year)"
+msgstr "Ημερομηνία (ημέρα/μήνας/έτος)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:159
+#: admin/knews_admin_lists.php:143
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: Text in echo
+#: admin/knews_admin_import.php:686
+msgid "Do the import"
+msgstr "Κάνε την εισαγωγή"
+
+#: Text in echo
+#: admin/knews_admin_config.php:209
+msgid "E-mails sent internally using WordPress (wp_mail() function)"
+msgstr "Η αλληλογραφία αποστέλλετε εσωτερικά χρησιμοποιώντας το WordPress (wp_mail () function)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:156
+#: admin/knews_admin_news_list.php:167
+#: admin/knews_admin_lists.php:141
+msgid "Edit"
+msgstr "Διόρθωση"
+
+#: Text in echo
+#: admin/knews_admin_news_edit.php:28
+msgid "Editing newsletter"
+msgstr "Διόρθωση ενημερωτικού δελτίου"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "E-mails sent at once"
+msgstr "Η αλληλογραφία αποστέλλετε ταυτόχρονα"
+
+#: Text in echo
+#: admin/knews_admin_import.php:74
+msgid "Enclosure"
+msgstr "Περίφραξη"
+
+#: Text in echo
+#: admin/knews_admin_import.php:82
+msgid "Encoding"
+msgstr "Κωδικοποίηση"
+
+#: Text in function
+#: direct/edit_news.php:49
+#: admin/knews_admin_news_send.php:201
+#: admin/knews_admin_news_send.php:124
+#: admin/knews_admin_news_edit.php:22
+#: admin/knews_admin_users.php:464
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+#: admin/knews_admin_news_list.php:1
+#: admin/knews_admin_lists.php:1
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: Text in echo
+#: direct/edit_news.php:50
+msgid "Error saving"
+msgstr "Σφάλμα κατά την αποθήκευση"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "Error: can't move uploaded file."
+msgstr "Σφάλμα: δεν μπορεί να μεταφορτωθεί το μετακινούμενο αρχείο."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Error: can't open the file"
+msgstr "Σφάλμα: Δεν μπορεί να ανοίξει το αρχείο"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+msgid "Extra fields"
+msgstr "Επιπλέον πεδία"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Field"
+msgstr "Πεδίο"
+
+#: Text in echo
+#: admin/knews_admin_import.php:219
+msgid "Fields assignement"
+msgstr "Πεδία εκχώρησης"
+
+#: Text in echo
+#: admin/knews_admin_import.php:232
+msgid "File upload"
+msgstr "Μεταφόρτωση αρχείου"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "File uploaded correctly"
+msgstr "Το αρχείο μεταφορτώθηκε σωστά"
+
+#: Text in echo
+#: admin/knews_admin_users.php:315
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: Text in echo
+#: admin/knews_admin_users.php:308
+msgid "Filter by mailing list"
+msgstr "Φίλτρο ανά λίστα αλληλογραφίας"
+
+#: Text in echo
+#: admin/knews_admin_users.php:321
+msgid "Find"
+msgstr "Εύρεση"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Finished"
+msgstr "Ολοκληρώθηκε"
+
+#: Text in echo
+#: admin/knews_admin_import.php:218
+msgid "Formatting"
+msgstr "Μορφοποίηση"
+
+#: Text in echo
+#: admin/knews_admin_import.php:401
+#: admin/knews_admin_import.php:686
+#: admin/knews_admin_users.php:260
+msgid "Go back"
+msgstr "Επιστροφή"
+
+#: Text in echo
+#: admin/knews_admin_users.php:396
+#: admin/knews_admin_users.php:399
+msgid "Go to first page"
+msgstr "Πήγαινε στην πρώτη σελίδα"
+
+#: Text in echo
+#: admin/knews_admin_users.php:405
+#: admin/knews_admin_users.php:408
+msgid "Go to last page"
+msgstr "Πήγαινε στην τελευταία σελίδα"
+
+#: Text in echo
+#: admin/knews_admin_users.php:404
+#: admin/knews_admin_users.php:407
+msgid "Go to next page"
+msgstr "Πήγαινε στην επόμενη σελίδα"
+
+#: Text in echo
+#: admin/knews_admin_users.php:397
+#: admin/knews_admin_users.php:400
+msgid "Go to previous page"
+msgstr "Πήγαινε στην προηγούμενη σελίδα"
+
+#: Text in echo
+#: admin/knews_admin_config.php:212
+msgid "Host SMTP"
+msgstr "Φιλοξενητής SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:397
+msgid "If a user already exists (matches e-mail)"
+msgstr "Εάν ένας χρήστης ήδη υπάρχει (ταιριάζει με αλληλογραφία)"
+
+#: Text in echo
+#: admin/knews_admin_import.php:287
+msgid "If you see the correct values, press \"Continue\""
+msgstr "Εάν βλέπετε τις σωστές τιμές, πατήστε \"Συνέχεια\""
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+msgstr "Εάν διαβάζετε αυτή την αλληλογραφία, το SMTP είναι σωστά ρυθμισμένο και μπορείτε να το ενεργοποιήσετε στις επιλογές του Knews"
+
+#: Text in echo
+#: admin/knews_admin_import.php:368
+msgid "If you choose a column, allowed values ​​are:"
+msgstr "Εάν επιλέξετε μία στήλη, οι επιτρεπόμενες τιμές είναι:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:229
+msgid "If you do not know what values ​​to put, leave these initially, later you can change it"
+msgstr "Αν δεν ξέρετε τι τιμές να θέσετε, αφήστε τις αρχικές, αργότερα μπορείτε να τις αλλάξετε"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "If you enter a value manually, this will be the same for all users imported"
+msgstr "Εάν εισαγάγετε μια τιμή χειροκίνητα, αυτή θα είναι το ίδιο για όλους τους χρήστες που έχουν εισαχθεί"
+
+#: Text in echo
+#: admin/knews_admin_import.php:221
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: Text in echo
+#: admin/knews_admin_import.php:214
+#: knews.php:520
+msgid "Import CSV"
+msgstr "Εισαγωγή CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:691
+msgid "Import finished"
+msgstr "Η εισαγωγή τελείωσε"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import preview (we have not made ​​any changes yet:"
+msgstr "Προεπισκόπηση εισαγωγής (δεν έχουμε κάνει καμία αλλαγή ακόμα:"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import results"
+msgstr "Αποτελέσματα εισαγωγής"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+msgid "Inactive language"
+msgstr "Απενεργοποιημένη Γλώσσα"
+
+#: Text in echo
+#: admin/knews_admin_config.php:180
+msgid "Instructions for setting up CRON"
+msgstr "Οδηγίες για να την δημιουργία του CRON"
+
+#: Text in echo
+#: admin/knews_admin_import.php:362
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:326
+#: admin/knews_admin_users.php:460
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Leave empty"
+msgstr "Αφήστε κενό"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:131
+msgid "List name"
+msgstr "Ονομα λίστας"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:162
+msgid "Mailing list"
+msgstr "Λίστα αλληλογραφίας"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing list created"
+msgstr "Η λίστα αλληλογραφίας δημιουργήθηκε"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:78
+#: knews.php:520
+msgid "Mailing lists"
+msgstr "Λίστες αλληλογραφίας"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing lists updated"
+msgstr "Οι λίστες αλληλογραφίας ενημερώθηκαν"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+msgid "Main"
+msgstr "Κύριο"
+
+#: Text in echo
+#: admin/knews_admin_users.php:170
+msgid "Main field"
+msgstr "Κύριο πεδίο"
+
+#: Text in echo
+#: admin/knews_admin_config.php:84
+#: admin/knews_admin_config.php:142
+msgid "Main options"
+msgstr "Κύριες επιλογές"
+
+#: Text in echo
+#: admin/knews_admin_import.php:398
+msgid "Maintain current data"
+msgstr "Διατηρήστε τα τρέχοντα δεδομένα"
+
+#: Text in echo
+#: admin/knews_admin_import.php:402
+msgid "Make preview"
+msgstr "Κάνε προεπισκόπηση"
+
+#: Text in echo
+#: admin/knews_admin_users.php:171
+msgid "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+msgstr "Επιλέγοντας αυτό το πλαίσιο, το πεδίο αυτό θα είναι ορατό στον πίνακα των χρηστών. Σας συνιστούμε να μην μαρκάρετε περισσότερα από 2 ή 3 πεδία για να αποφευχθεί η σύγχυση στον πίνακα"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:154
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: Text in echo
+#: admin/knews_admin_config.php:145
+msgid "Multilingual"
+msgstr "Πολυγλωσσικό"
+
+#: Text in echo
+#: admin/knews_admin_users.php:165
+#: admin/knews_admin_news_list.php:178
+msgid "Name"
+msgstr "Ονομα"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:89
+msgid "Name list"
+msgstr "Ονομα λίστας"
+
+#: Text in echo
+#: admin/knews_admin_users.php:167
+msgid "Name of extra field"
+msgstr "Ονομα επιπλέον πεδίου"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:66
+msgid "Newsletter"
+msgstr "Ενημερωτικό Δελτίο"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Failed to create the Newsletter"
+msgstr "Αποτυχία στη δημιουργία του Ενημερωτικού Δελτίου"
+
+#: Text in function
+#: admin/knews_admin_news_edit.php:22
+msgid "Newsletter doesn't exists"
+msgstr "Το Ενημερωτικό Δελτίο δεν υπάρχει"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Newsletter list updated"
+msgstr "Η λίστα του Ενημερωτικού Δελτίου ενημερώθηκε"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:152
+msgid "Newsletter name"
+msgstr "Ονομα Ενημερωτικού Δελτίου"
+
+#: Text in echo
+#: direct/edit_news.php:51
+msgid "Newsletter saved"
+msgstr "Το Ενημερωτικό Δελτίο αποθηκεύτηκε"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:123
+#: admin/knews_admin_news_edit.php:21
+#: admin/knews_admin_news_list.php:111
+#: knews.php:520
+msgid "Newsletters"
+msgstr "Ενημερωτικά Δελτία"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "No"
+msgstr "Οχι"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "No delimiters"
+msgstr "Δεν υπάρχουν διαχωριστικά"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Not confirmed"
+msgstr "Δεν έχει επιβεβαιωθεί"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+msgstr "Τώρα πρέπει να πατήσετε εδώ, τότε ένα παράθυρο που μιμείται τον CRON με JavaScript θα ανοίξει. Θα πρέπει να το αφήσετε ανοιχτό μέχρι η αποστολή να τελειώσει."
+
+#: Text in echo
+#: admin/knews_admin_import.php:646
+msgid "Of which have been successfully imported:"
+msgstr "Εκ των οποίων έχουν εισαχθεί με επιτυχία:"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Ongoing"
+msgstr "Συνεχίζεται"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:90
+#: admin/knews_admin_lists.php:132
+msgid "Open"
+msgstr "Ανοιχτό"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:91
+#: admin/knews_admin_lists.php:133
+msgid "Open for registered users"
+msgstr "Ανοιχτό για εγγεγραμμένους χρήστες"
+
+#: Text in echo
+#: admin/knews_admin_import.php:399
+msgid "Overwrite"
+msgstr "Αντικατάσταση"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Paused"
+msgstr "Διακόπηκε"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Paused?"
+msgstr "Διακόπηκε?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Permission"
+msgstr "Aδεια"
+
+#: Text in echo
+#: admin/knews_admin_config.php:213
+msgid "Port SMTP"
+msgstr "Πόρτα SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:220
+#: admin/knews_admin_news_list.php:157
+#: admin/knews_admin_news_list.php:167
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:67
+#: admin/knews_admin_news_send.php:173
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:71
+msgid "Progress / Results"
+msgstr "Εξέλιξη / Αποτελέσματα"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Properly tabulated"
+msgstr "Σωστός πίνακας"
+
+#: Text in echo
+#: admin/knews_admin_config.php:220
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+#: Text in echo
+#: admin/knews_admin_config.php:215
+msgid "SMTP Password"
+msgstr "SMTP Κωδικός"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "SMTP Submit e-mail test done"
+msgstr "SMTP Υποβολή δοκιμαστικής αλληλογραφίας έγινε "
+
+#: Text in echo
+#: admin/knews_admin_config.php:214
+msgid "SMTP User"
+msgstr "SMTP Χρήστης"
+
+#: Text in echo
+#: direct/edit_news.php:73
+#: admin/knews_admin_config.php:116
+#: admin/knews_admin_config.php:228
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: Text in function
+#: admin/knews_admin_config.php:232
+msgid "Saved."
+msgstr "Αποθηκεύτηκε"
+
+#: Text in echo
+#: admin/knews_admin_import.php:279
+msgid "Scan CSV again"
+msgstr "Σάρωση CSV και πάλι"
+
+#: Text in function
+#: admin/knews_admin_lists.php:152
+msgid "See users"
+msgstr "Δείτε τους χρήστες"
+
+#: Text in echo
+#: direct/select_post.php:59
+msgid "Select the post to insert in the newsletter"
+msgstr "Επιλέξτε το άρθρο για να εισάγετε στο Ενημερωτικό Δελτίο"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Send e-mail confirmation"
+msgstr "Στείλτε αλληλογραφία επιβεβαίωσης"
+
+#: Text in echo
+#: admin/knews_admin_config.php:210
+msgid "Send e-mails using SMTP (recommended)"
+msgstr "Στείλτε την αλληλογραφία χρησιμοποιώντας SMTP (συνιστάται)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:191
+msgid "Send the newsletter manually"
+msgstr "Αποστολή των Ενημερωτικών Δελτίων"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:131
+msgid "Send the newsletter to the following lists"
+msgstr "Στείλτε το Ενημερωτικό Δελτίο στις ακόλουθες λίστες"
+
+#: Text in echo
+#: admin/knews_admin_config.php:187
+msgid "Sender"
+msgstr "Αποστολέας"
+
+#: Text in echo
+#: admin/knews_admin_config.php:188
+msgid "Sender e-mail"
+msgstr "Δνση αλληλογραφίας αποστολέα"
+
+#: Text in echo
+#: admin/knews_admin_config.php:189
+msgid "Sender name"
+msgstr "Ονομα αποστολέα"
+
+#: Text in echo
+#: admin/knews_admin_config.php:194
+msgid "Sending"
+msgstr "Αποστολή"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Sending SMTP is not enabled, the shipments are less reliable."
+msgstr "Η αποστολή SMTP δεν είναι ενεργοποιημένη, οι αποστολές δεν θα γίνουν"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:130
+msgid "Sending newsletter"
+msgstr "Αποστολή Ενημερωτικού Δελτίου"
+
+#: Text in echo
+#: admin/knews_admin_import.php:66
+msgid "Separator"
+msgstr "Διαχωριστής"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Shipping done, check that the mail has arrived."
+msgstr "Η αποστολή έγινε, ελέγξτε ότι το μήνυμα έχει φτάσει."
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Special"
+msgstr "Ειδικός"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Start (now or deferred)?"
+msgstr "Έναρξη (τώρα ή αναβολή);"
+
+#: Text in echo
+#: admin/knews_admin_import.php:357
+#: admin/knews_admin_users.php:233
+#: admin/knews_admin_users.php:326
+msgid "State"
+msgstr "Κατάσταση"
+
+#: Text in function
+#: knews.php:520
+msgid "Stats"
+msgstr "Στατιστικά"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:72
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:69
+msgid "Submit end"
+msgstr "Τέλος υποβολής"
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Submit error."
+msgstr "Σφάλμα υποβολής."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:197
+msgid "Submit newsletter"
+msgstr "Υποβολή Ενημρωτικού Δελτίου"
+
+msgid "Continue editing"
+msgstr "Συνέχιση της επεξεργασίας"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:68
+msgid "Submit start"
+msgstr "Εναρξη υποβολής"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:2
+#: knews.php:520
+msgid "Submits"
+msgstr "Υποβολές"
+
+#: Text in echo
+#: admin/knews_admin_import.php:387
+msgid "Subscribe all users to the following mailing lists:"
+msgstr "Να εγγραφούν όλοι οι χρήστες στις ακόλουθες λίστες αλληλογραφίας:"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+#: knews.php:520
+msgid "Subscribers"
+msgstr "Συνδρομητές"
+
+#: Text in echo
+#: admin/knews_admin_users.php:245
+#: admin/knews_admin_users.php:326
+msgid "Subscriptions"
+msgstr "Συνδρομές"
+
+#: Text in echo
+#: admin/knews_admin_config.php:208
+msgid "Submit method"
+msgstr "Μέθοδος υποβολής"
+
+#: Text in function
+#: knews.php:520
+msgid "Today, at"
+msgstr "Σήμερα, στις"
+
+#: Text in function
+#: knews.php:520
+msgid "Tomorrow, at"
+msgstr "Αύριο, στις"
+
+#: Text in function
+#: knews.php:520
+msgid "at"
+msgstr "στις"
+
+#: Text in function
+#: knews.php:520
+msgid "Yesterday, at"
+msgstr "Εχθές, στις"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:155
+msgid "Template"
+msgstr "Πρότυπο"
+
+#: Text in echo
+#: admin/knews_admin_config.php:223
+msgid "Test SMTP config"
+msgstr "SMTP Δοκιμή ρυθμίσεων"
+
+#: Text in echo
+#: admin/knews_admin_config.php:148
+msgid "The WPML plugin was not detected, multilingual options are not functional"
+msgstr "Το πρόσθετο WPML δεν ανιχνεύθηκε, οι πολυγλωσσικές επιλογές δεν λειτουργούν"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+msgstr "Ο φάκελος /wp-content/plugins/knews/tmp πρέπει να είναι εγγραψιμος (chmod 700)"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field already exists"
+msgstr "Το πεδίο ήδη υπάρχει"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field has been added"
+msgstr "Το πεδίο έχει προστεθεί"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field name can't be empty"
+msgstr "Το όνομα του πεδίου δεν μπορεί να είναι κενό"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The fields have been updated"
+msgstr "Οι πεδία έχουν ενημερωθεί"
+
+#: Text in echo
+#: admin/knews_admin_import.php:90
+msgid "The first row is a header"
+msgstr "Η πρώτη σειρά είναι μία κεφαλίδα"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "The last execution was done"
+msgstr "Η τελευταία εκτέλεση έγινε"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:124
+msgid "The newsletter doesn't exists"
+msgstr "Το Ενημερωτικό Δελτίο δεν υπάρχει"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "The newsletter has been created successfully"
+msgstr "Το Ενημερωτικό Δελτίο έχει δημιουργηθεί με επιτυχία"
+
+#: Text in echo
+#: admin/knews_admin_users.php:176
+msgid "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+msgstr "Μία ένδειξη χρησιμοποιείται για να εισαγάγετε ένα πεδίο στο Ενημερωτικό Δελτίο. Θα πρέπει να βρίσκεται ανάμεσα σε %, χωρίς κενά διαστήματα, όπως για παράδειγμα:%% όνομα"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and an e-mail confirmation has been sent"
+msgstr "Ο χρήστης έχει προστεθεί και ένα μήνυμα αλληλογραφίας επιβεβαίωσης εστάλει"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and from now on he will receive the newsletters"
+msgstr "Ο χρήστης έχει προστεθεί και από τώρα και στο εξής θα λαμβάνετε τα Ενημερωτικά Δελτία"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added but an error occurred in sending e-mail confirmation"
+msgstr "Ο χρήστης έχει προστεθεί αλλά παρουσιάστηκε ένα σφάλμα κατά την αποστολή της αλληλογραφίας επιβεβαίωσης"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has not been inserted"
+msgstr "Ο χρήστης δεν έχει εισαχθεί"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user was already introduced"
+msgstr "Ο χρήστης έχει ήδη εισαχθεί"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "There is already another newsletter with the same name!"
+msgstr "Υπάρχει ήδη ένα άλλο Ενημερωτικό Δελτίο με το ίδιο όνομα!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:651
+msgid "There have been created:"
+msgstr "Έχουν δημιουργηθεί:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:653
+msgid "There have been updated:"
+msgstr "Έχουν ενημερωθεί:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "This field is required to take it in some column"
+msgstr "Αυτό το πεδίο πρέπει να πάει σε κάποια στήλη"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Time"
+msgstr "Χρόνος"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:174
+msgid "Token"
+msgstr "Ενδειξη"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "The single e-mail has been sent to:"
+msgstr "Το μήνυμα αλληλογραίας έχει σταλεί προς:"
+
+#: Text in function
+#: knews.php:1
+msgid "Unique language"
+msgstr "Μοναδική γλώσσα"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Unknown language"
+msgstr "Αγνωστη γλώσσα"
+
+#: Text in echo
+#: admin/knews_admin_users.php:154
+msgid "Update fields"
+msgstr "Ενημέρωση πεδίων"
+
+#: Text in echo
+#: admin/knews_admin_users.php:260
+msgid "Update user"
+msgstr "Ενημερώση χρήστη"
+
+#: Text in echo
+#: admin/knews_admin_config.php:153
+msgid "Use the WPML defined languages to operate Knews in multilanguage mode"
+msgstr "Χρησιμοποιήστε τις οριζόμενες με το WPML γλώσσες για να λειτουργήσει το Knews στην πολυγλωσσική λειτουργία"
+
+msgid "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+msgstr "Χρησιμοποιήστε τις οριζόμενες με το qTranslate γλώσσες για να λειτουργήσει το Knews στην πολυγλωσσική λειτουργία"
+
+msgid "Operate Knews as monolingual"
+msgstr "Λειτουργήστε το Knews ως μονογλωσσικό"
+
+msgid "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+msgstr "Δεν έχουν ανιχνευθεί πολυγλωσσικά πρόσθετα. Το Knews λειτουργεί με τα πρόσθετα qTranslate και WPML "
+
+msgid "qTranslate: free plugin"
+msgstr "qTranslate: ελεύθερο πρόσθετο"
+
+msgid "WPML: commercial plugin"
+msgstr "WPML: εμπορικό πρόσθετο"
+
+msgid "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+msgstr "Σημείωση: Οι συγγραφείς του Knews δεν έχουν καμία σχέση με τους συγγραφείς των qTranslate ή WMPL."
+
+msgid "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+msgstr "Αν αφήσετε τώρα αυτή τη σελίδα, οι αλλαγές του Ενημερωτικού Δελτίου θα χαθούν. Παρακαλώ, να ακυρώστε και πατήστε το κουμπί \"Αποθήκευση\" (μπλε χρώμα)."
+
+msgid "The multilanguage plugin has stopped working."
+msgstr "Το πολυγλωσσικό πρόσθετο έχει σταματήσει να λειτουργεί."
+
+msgid "Welcome to Knews."
+msgstr "Καλώς ήρθατε στο Knews."
+
+msgid "Please, go to %s configuration page"
+msgstr "Παρακαλώ, μεταβείτε στη %s σελίδα διαμόρφωσης "
+
+msgid "Don't show this message again [x]"
+msgstr "Να μην εμφανιστεί ξανά αυτό το μήνυμα [x]"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "The user already exists"
+msgstr "Ο χρήστης ήδη υπάρχει"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "User data updated"
+msgstr "Τα δεδομένα του χρήστη ενημερώθηκαν"
+
+#: Text in function
+#: admin/knews_admin_users.php:263
+msgid "User not found"
+msgstr "Ο χρήστης δεν βρέθηκε"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:70
+msgid "Users"
+msgstr "Χρήστες"
+
+#: Text in function
+#: admin/knews_admin_users.php:460
+msgid "There are not yet users"
+msgstr "Δεν υπάρχουν χρήστες ακόμα"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Users unconfirmed (You should do confirmation manually):"
+msgstr "Ανεπιβεβαίωτοι χρήστες (Θα πρέπει να κάνετε την επιβεβαίωση χειροκίνητα):"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+msgstr "Στείλτε ένα μήνυμα επιβεβαίωσης στους ανεπιβεβαίωτους χρήστες (όχι στους κλειδομένους)"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Using special characters (accents) correctly coded"
+msgstr "Χρήση ειδικών χαρακτήρων (τόνους) σωστά κωδικοποιήθηκαν"
+
+#: Text in echo
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Value"
+msgstr "Τιμή"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+#: admin/knews_admin_users.php:464
+msgid "Wrong e-mail"
+msgstr "Λανθασμένη δνση αλληλογραφίας"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Wrong state"
+msgstr "Λανθασμένη κατάσταση"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Yes"
+msgstr "Ναι"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+msgstr "Δεν μπορείτε να προγραμματίσετε μια καθυστερημένη παράδοση. Θα πρέπει να αφήσετε ένα βοηθητικό παράθυρο ανοιχτό (JavaScript CRON Emulation) έως ότου η αποστολή τελειώσει"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a name for the new newsletter!"
+msgstr "Θα πρέπει να επιλέξετε ένα όνομα για το νέο Ενημερωτικό Δελτίο!"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a template!"
+msgstr "Θα πρέπει να επιλέξετε ένα πρότυπο!"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "You must upload a file."
+msgstr "Θα πρέπει να μεταφορτώσετε ένα αρχείο."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "You should be seeing the header and the four first lines of the CSV:"
+msgstr "Θα πρέπει να βλέπετε την κεφαλίδα και τις τέσσερις πρώτες γραμμές του CSV:"
+
+msgid "widget_title"
+msgstr "widget_title"
+
+msgid "widget_label_email"
+msgstr "widget_label_email"
+
+msgid "Widget submit button"
+msgstr "Πλήκτρο υποβολής γραφικού στοιχείου"
+
+msgid "widget_button"
+msgstr "widget_button"
+
+msgid "You were already a subscriber (AJAX message)"
+msgstr "Είσασταν ήδη συνδρομητής (AJAX μήνυμα)"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription"
+msgstr "ajax_subscription"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_direct"
+msgstr "ajax_subscription_direct"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_oops"
+msgstr "ajax_subscription_oops"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_error"
+msgstr "ajax_subscription_error"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_wrong_email"
+msgstr "ajax_wrong_email"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_subject"
+msgstr "email_subscription_subject"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_body"
+msgstr "<p>Έχετε ζητήσει να εγγραφείτε στο ενημερωτικό δελτίο του  #blog_name#, θα πρέπει να επιβεβαιώσετε την εγγραφή σας κάνοντας κλικ <a href=\"#url_confirm#\">εδώ</a>.</p><p>Μπορείτε να επικολλήστε τη διεύθυνση στον περιηγητή σας:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: dialogs.php:28
+msgid "subscription_ok_title"
+msgstr "Η συνδρομή σας έχει επιβεβαιωθεί"
+
+#: Text in echo
+#: dialogs.php:29
+msgid "subscription_ok_message"
+msgstr "Από τώρα και στο εξής, θα λαμβάνετε τα ενημερωτικά δελτία μας.<br><br><strong>Σας ευχαριστούμε.</ Strong>"
+
+#: Text in echo
+#: dialogs.php:35
+msgid "subscription_error_title"
+msgstr "Σφάλμα στην συνδρομή"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_error_message"
+msgstr "Παρακαλούμε, προσπαθήστε ξανά. Εάν είναι απαραίτητο, να αντιγράψετε ολόκληρο το σύνδεσμο στη γραμμή περιήγησης. <br><br><strong> Ζητούμε συγγνώμη για την ταλαιπωρία</strong>"
+
+#: Text in echo
+#: dialogs.php:49
+msgid "subscription_stop_error_title"
+msgstr "Αποτυχία στην ακυρώση της συνδρομή σας"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_stop_error_message"
+msgstr "Παρακαλούμε, προσπαθήστε ξανά. Εάν είναι απαραίτητο, να αντιγράψετε ολόκληρο το σύνδεσμο αλληλογραφίας στη μπάρα πλοήγησης. Λυπούμαστε για την ταλαιπωρία."
+
+#: Text in echo
+#: dialogs.php:42
+msgid "subscription_stop_ok_title"
+msgstr "Η συνδρομή σας έχει ακυρωθεί"
+
+#: Text in echo
+#: dialogs.php:43
+msgid "subscription_stop_ok_message"
+msgstr "Από τώρα και στο εξής, δεν θα μπορείτε πλέον να λαμβάνετε τα ενημερωτικά δελτία μας. Σας ευχαριστώ."
+
+#: Text in echo
+#: dialogs.php:52
+msgid "dialogs_close_button"
+msgstr "Κλείσε"
+
+#: Text in echo
+#: admin/knews_admin_import.php:373
+msgid "year-month-day"
+msgstr "έτος-μήνας-μέρα"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:236
+msgid "blocked"
+msgstr "μπλοκαρισμένα"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "can't create the mailing list"
+msgstr "δεν μπορείτε να δημιουργήσετε τη λίστα"
+
+#: Text in function
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_users.php:235
+msgid "confirmed"
+msgstr "επιβεβαιωμένα"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "deleted"
+msgstr "διαγραμένα"
+
+#: Text in echo
+#: admin/knews_admin_import.php:371
+msgid "day-month-year"
+msgstr "ημέρα-μήνας-έτος"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+msgstr "Αν όχι, αλλάξτε τις τιμές διαχωρισμού και / ή κλείσιμο. Στη συνέχεια, πατήστε το κουμπί \"Σάρωση CSV και πάλι\":"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "introduce value"
+msgstr "συνιστούσα τιμή"
+
+#: Text in echo
+#: admin/knews_admin_import.php:372
+msgid "month-day-year"
+msgstr "μήνας-ημέρα-έτος"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "minutes ago"
+msgstr "λεπτά πριν"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:167
+msgid "never"
+msgstr "ποτέ"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_users.php:234
+msgid "not confirmed"
+msgstr "μη επιβεβαιωμένο"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+msgid "Language not detected!"
+msgstr "Η γλώσσα δεν βρέθηκε!"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "test mode"
+msgstr "δοκιμαστική λειτουργία"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "there is already a list with this name!"
+msgstr "υπάρχει ήδη μια λίστα με αυτό το όνομα!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+#: admin/knews_admin_import.php:646
+#: admin/knews_admin_import.php:649
+#: admin/knews_admin_import.php:651
+#: admin/knews_admin_import.php:653
+#: admin/knews_admin_import.php:665
+#: admin/knews_admin_import.php:668
+#: admin/knews_admin_users.php:394
+msgid "users"
+msgstr "χρήστες"
+
+#: Text in echo
+#: phpscanner.php:17
+msgid "E-mail on automatically import (body)"
+msgstr "Αλληλογραφία στην αυτόματη εισαγωγή (σώμα)"
+
+#: Text in echo
+#: phpscanner.php:16
+msgid "E-mail on automatically import (title)"
+msgstr "Αλληλογραφία στην αυτόματη εισαγωγή (τίτλος)"
+
+#: Text in echo
+#: phpscanner.php:26
+msgid "Close Button Caption"
+msgstr "Τίτλος πλήκτρου κλεισίματος"
+
+#: Text in echo
+#: phpscanner.php:15
+msgid "Confirmation E-mail (body)"
+msgstr "Μήνυμα επιβεβαίωσης (σώμα)"
+
+#: Text in echo
+#: phpscanner.php:14
+msgid "Confirmation E-mail (subject)"
+msgstr "Μήνυμα επιβεβαίωσης (θέμα)"
+
+#: Text in echo
+#: phpscanner.php:21
+msgid "Subscription Error Dialog (Message)"
+msgstr "Μήνυμα επιβεβαίωσης (Μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:20
+msgid "Subscription Error Dialog (Title)"
+msgstr "Παράθυρο διαλόγου σφάλματος συνδρομή (Τίτλος)"
+
+#: Text in echo
+#: phpscanner.php:19
+msgid "Subscription OK Dialog (Message)"
+msgstr "Παράθυρο διαλόγου ΕΝΤΑΞΕΙ συνδρομή (Μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:18
+msgid "Subscription OK Dialog (Title)"
+msgstr "Παράθυρο διαλόγου ΕΝΤΑΞΕΙ συνδρομή (Τίτλος)"
+
+#: Text in echo
+#: phpscanner.php:11
+msgid "Subscription done, you were already subscribed (AJAX message)"
+msgstr "Η συνδρομή έγινε, έχετε ήδη εγγραφεί (AJAX μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:10
+msgid "We have sent you a confirmation e-mail (AJAX message)"
+msgstr "Έχουμε στείλει ένα μήνυμα επιβεβαίωσης (AJAX μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:13
+msgid "Subscription error (AJAX message)"
+msgstr "Λάθος συνδρομής (AJAX μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:23
+msgid "UnSubscribe Error Dialog (Message)"
+msgstr "Παράθυρο διαλόγου σφάλματος κατάργησης συνδρομής (Μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:22
+msgid "UnSubscribe Error Dialog (Title)"
+msgstr "Παράθυρο διαλόγου σφάλματος κατάργησης συνδρομής (Τιτλος)"
+
+#: Text in echo
+#: phpscanner.php:25
+msgid "UnSubscribe OK Dialog (Message)"
+msgstr "Παράθυρο διαλόγου ΕΝΤΑΞΕΙ κατάργησης συνδρομής (Μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:24
+msgid "UnSubscribe OK Dialog (Title)"
+msgstr "Παράθυρο διαλόγου ΕΝΤΑΞΕΙ κατάργησης συνδρομής (Τίτλος)"
+
+#: Text in echo
+#: phpscanner.php:9
+msgid "Wrong e-mail address, please check (AJAX message)"
+msgstr "Λάθος διεύθυνση αλληλογραφίας, παρακαλούμε να ελέγξετε (AJAX μήνυμα)"
+
+#: Text in echo
+#: phpscanner.php:36
+msgid "email_importation_body"
+msgstr "Έχετε ήδη εγγραφεί στα ενημερωτικά δελτία του #blog_name#, θα πρέπει να επιβεβαιώσετε την εγγραφή σας κάνοντας κλικ <a href=\"#url_confirm#\">εδώ</ a>.</p><p>Μπορείτε να επικολλήσετε τη διεύθυνση σε έναν περιηγητή: <br>#url_confirm#</ p>"
+
+#: Text in echo
+#: phpscanner.php:35
+msgid "email_importation_subject"
+msgstr "Εγγραφή στο ενημερωτικό δελτίο"
+
+msgid "deleted list"
+msgstr "λίστα διαγραφέντων"
+
+msgid "Total errors:"
+msgstr "Συνολικά σφάλματα:"
+
+msgid "User deleted"
+msgstr "Ο χρήστης διαγράφηκε"
+
+msgid "Edit this user"
+msgstr "Επεξεργασία αυτού του χρήστη"
+
+msgid "Activate this user"
+msgstr "Ενεργοποίηση αυτού του χρήστη"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "Delete definitively this user"
+msgstr "Οριστική διαγραφεί αυτού του χρήστη"
+
+msgid "Block this user"
+msgstr "Μπλοκάρισμα αυτού του χρήστη"
+
+msgid "Block"
+msgstr "Μπλοκάρισμα"
+
+msgid "Batch actions"
+msgstr "Μαζικές ενέργειες"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Rename"
+msgstr "Μετονομασία"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Only update"
+msgstr "Μόνο ενημέρωση"
+
+msgid "Only delete"
+msgstr "Μόνο διαγραφή"
+
+msgid "See fails"
+msgstr "Δείτε τις αποτυχίες"
+
+msgid "Pause"
+msgstr "Παύση"
+
+msgid "Progress"
+msgstr "Πρόοδος"
+
+msgid "Rename this list"
+msgstr "Μετονομασία λίστας"
+
+msgid "See this list users"
+msgstr "Δείτε τη λίστα χρηστών"
+
+msgid "Delete definitively this newsletter"
+msgstr "Οριστική διαγραφή αυτού του Ενημερωτικού Δελτίου"
+
+msgid "Edit this newsletter"
+msgstr "Επεξεργασία Ενημερωτικού Δελτίου"
+
+msgid "Rename this newsletter"
+msgstr "Μετονομασία Ενημερωτικού Δελτίου"
+
+msgid "Open a preview in a new window"
+msgstr "Ανοίξε μια προεπισκόπηση σε ένα νέο παράθυρο"
+
+msgid "Submit this newsletter"
+msgstr "Υποβολή Ενημερωτικού Δελτίου"
+
+msgid "Change the priority"
+msgstr "Αλλάξε την προτεραιότητα"
+
+msgid "Set the current date and time as start submit time"
+msgstr "Ρυθμίστε την τρέχουσα ημερομηνία και ώρα ως αρχή χρόνου υποβολής "
+
+msgid "Pause this submit"
+msgstr "Παύση υποβολής"
+
+msgid "Remove pause, continue submit"
+msgstr "Αφαιρέση παύσης, να συνεχίσει η υποβολή"
+
+msgid "Start now"
+msgstr "Εναρξη τώρα"
+
+msgid "See report fails by SMTP server"
+msgstr "Δείτε την αναφορά αποτυχιών ανά SMTP διακομιστή"
+
+msgid "Stop and delete this submit now"
+msgstr "Σταμάτησε και διέγραψε αυτή την υποβολή τώρα"
+
+msgid "Error: This newsletter does not exist"
+msgstr "Σφάλμα: Αυτό το Ενημερωτικό Δελτίο δεν υπάρχει"
+
+msgid "Do you really want to delete this module?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενότητα;"
+
+msgid "Move module"
+msgstr "Μετακίνηση ενότητας"
+
+msgid "Delete module"
+msgstr "Διαγραφή ενότητας"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "Posts"
+msgstr "Αναρτήσεις"
+
+msgid "Pages"
+msgstr "Σελίδες"
+
+msgid "Reset all alerts"
+msgstr "Επαναφορά όλων των ειδοποιήσεων"
+
+msgid "Reset all messages to default values (all languages at once)"
+msgstr "Επαναφορά όλων των μηνυμάτων στις προκαθορισμένες τιμές (σε όλες τις γλώσσες ταυτόχρονα)"
+
+msgid "Knews will try to resend those messages which have reported error"
+msgstr "Το Knews θα προσπαθήσει να στείλει ξανά τα μηνύματα που αναφέρθηκαν με σφάλμα"
+
+msgid "Resubmit those which have reported error"
+msgstr "Υποβολή ξανά αυτών που αναφέρθηκαν με σφάλμα"
+
+msgid "Retry"
+msgstr "Επανάληψη"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1. Select the users you want to export:"
+msgstr "1. Επιλέξτε τους χρήστες που θέλετε να εξάγετε:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.1. Select the lists to export:"
+msgstr "1.1. Επιλέξτε τις λίστες για την εξαγωγή:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.2. Select the languages to export:"
+msgstr "1.2. Επιλέξτε τις γλώσσες από την εξαγωγή:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "2. Format options:"
+msgstr "2. Επιλογές διαμόρφωσης:"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "E-mail"
+msgstr "Αλληλογραφία"
+
+#: Text in echo
+#: knews_admin_export.php:71
+#: knews_admin_export.php:195
+msgid "Export users"
+msgstr "Εξαγωγή χρηστών"
+
+#: Text in echo
+#: knews_admin_export.php:189
+msgid "Insert a header in the first row"
+msgstr "Εισαγωγή κεφαλίδας στην πρώτη σειρά"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "No users match criteria"
+msgstr "Δεν υπάρχουν χρήστες που ταιριάζουν με τα κριτήρια"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "Select at least one list and one language."
+msgstr "Επιλέξτε τουλάχιστον μία λίστα και μια γλώσσα."
+
+#: Text in function
+#: knews_admin_export.php:142
+msgid "To download the .CSV, click %s here"
+msgstr "Για να κατεβάσετε το αρχείο. CSV, πατήστε %s εδώ"
+
+msgid "Export CSV"
+msgstr "Εξαγωγή CSV"
+
+msgid "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+msgstr "Σημείωση: επισημάνετε όλες τις λίστες και την επιθυμητή γλώσσα/ες για να φιλτράρετε ανά γλώσσα, ή όλες τις γλώσσες και τις επιθυμητές λίστες για να φιλτράρετε ανά λίστα,"
+
+msgid "...or all lists and all languages to export all users."
+msgstr "... ή όλες τις λίστες και όλες τις γλώσσες να εξαγωγή όλως των χρηστών."
+
+msgid "%s users have been exported."
+msgstr "%s χρήστες έχουν εξαχθεί."
+
+msgid "Lists"
+msgstr "Λίστες"
+
+msgid "Edit image"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "Insert post/page content"
+msgstr "Εισαγωγή περιεχομένου ανάρτησης/σελίδας"
+
+msgid "Free text content"
+msgstr "Ελεύθερο περιεχόμενο κειμένου"
+
+msgid "Resize toolbox"
+msgstr "Αλλαγή μεγέθους εργαλειοθήκης"
+
+msgid "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+msgstr "Προσοχή! Ο IE 6/7 δεν μπορεί να επεξεργαστεί τα ενημερωτικά δελτία! Ο συντάκτης χρησιμοποιεί HTML5 και θα πρέπει να αναβαθμίσετε τον περιηγητής σας τουλάχιστον σε IE8, ή να χρησιμοποιήσετε ένα σύγχρονο Firefox, Chrome ή Safari."
+
+msgid "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+msgstr "Προσοχή! Ο Opera δεν μπορεί να επεξεργαστεί τα ενημερωτικά δελτία. Πρέπει να χρησιμοποιήσετε ένα σύγχρονο Firefox, Chrome, Safari ή τουλάχιστον Internet Explorer 8."
+
+msgid "Warning! You should activate JavaScript to edit newsletters!"
+msgstr "Προσοχή! Θα πρέπει να ενεργοποιήσετε τη JavaScript για να επεξεργαστείτε τα ενημερωτικά δελτία!"
+
+msgid "No submits yet. First go to Newsletters, create one, and then submit it."
+msgstr "Καμία υποβολή ακόμα. Πρώτα πηγαίνετε στα ενημερωτικά δελτία δημιουργήστε ένα, και στη συνέχεια υποβολή."
+
+msgid "Error: I can't write the .CSV file."
+msgstr "Error: Δεν μπορώ να γράψω το αρχείο CSV.."
+
+msgid "User join date"
+msgstr "Ημερομηνία εγγραφής χρήστη"
+
+msgid "All: today"
+msgstr "Ολα: σήμερα"
+
+msgid "See log"
+msgstr "Δείτε αρχείο γεγονότων"
+
+msgid "See the complete submit log"
+msgstr "Δείτε το πλήρες αρχείο γεγονότων της υποβολής"
+
+msgid "Alerts and logs"
+msgstr "Ειδοποιήσεις και αρχεία γεγονότων"
+
+msgid "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+msgstr "Εγγραφή αρχείων γεγονότων"
+
+msgid "Go to template page"
+msgstr "Μετάβαση στη σελίδα προτύπων"
+
+msgid "Redirecting to editor..."
+msgstr "Αναπροσανατολισμός στο συντάκτη ..."
+
+msgid "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+msgstr "Τα μηνύματα αλληλογραφίας που έχουν υποβληθεί σε οποιοδήποτε μήνυμα που έχει τερματιστεί με @knewstest.com (όπως testing001@knewstest.com ή xxx@knewstest.com) θα υποβληθεί προς: %s για λόγους δοκιμής"
+
+msgid "List deleted"
+msgstr "Λίστα διαγράφηκε"
+
+msgid "Submit start time updated"
+msgstr "Ωρα έναρξης υποβολής ενημερώθηκε"
+
+msgid "List name updated"
+msgstr "Ονομα λίστας ενημερώθηκε"
+
+msgid "Submit deleted"
+msgstr "Η υποβολή διαγράφηκε"
+
+msgid "Submit priority updated"
+msgstr "Προτεραιότητα υποβολής ενημερώθηκε"
+
+msgid "Use WordPress's built-in CRON framework."
+msgstr "Χρήση ενσωματωμένου WordPress CRON πλαισίου."
+
+msgid "This option no requires configuration, but in less traffic sites can be slow to submit"
+msgstr "Η επιλογή αυτή δεν απαιτεί καμία ρύθμιση, αλλά σε ιστοχώρους με μικρό εύρος κυκλοφορίας, μπορεί να είναι αργή η υποβολή"
+
+msgid "Use the JavaScript CRON emulation."
+msgstr "Χρήση της Javascript CRON εξομοίωσης."
+
+msgid "This option requires you to keep a window open during submission and does not allow deferred submits"
+msgstr "Αυτή η επιλογή απαιτεί από εσάς να κρατήσετε ένα παράθυρο ανοιχτό κατά τη διάρκεια της υποβολής και δεν επιτρέπει αναβαλόμενες υποβολές"
+
+msgid "Check all mailing lists"
+msgstr "Ελέγξτε όλες τις λίστες"
+
+msgid "Uncheck all mailing lists"
+msgstr "Καταργήστε όλες τις λίστες"
+
+msgid "Duplicate"
+msgstr "Αντίγραφο"
+
+msgid "Duplicate this newsletter"
+msgstr "Αντιγραφή του Ενημερωτικού Δελτίου"
+
+msgid "Apply changes and refresh image"
+msgstr "Εφάρμοσε τις αλλαγές και ανανέωσε την εικόνα"
+
+msgid "Undo image changes"
+msgstr "Αναίρεση αλλαγών εικόνας"
+
+msgid "Properties of image"
+msgstr "Ιδιότητες της εικόνας"
+
+msgid "Select one or more lists"
+msgstr "Επιλέξτε μία ή περισσότερες λίστες"
+
+msgid "No active users in the selected list, nothing programmed to send."
+msgstr "Δεν υπάρχουν ενεργοί χρήστες στην επιλεγμένη λίστα, τίποτα δεν έχει προγραμματιστεί για αποστολή."
+
+msgid "Configure CRON tutorial"
+msgstr "Εκμάθηση Διαμόρφωσης του CRON"
+
+msgid "You must add this line in your webserver CRONTAB:"
+msgstr "Θα πρέπει να προσθέσετε αυτή τη γραμμή στο crontab τοιυ διακομιστή σας:"
+
+msgid "Configure SMTP tutorial"
+msgstr "Εκμάθηση Διαμόρφωσης του SMTP"
+
+msgid "The language can't be localized"
+msgstr "Η γλώσσα δεν μπορεί να εντοπιστεί"
+
+msgid "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+msgstr "Είστε σε λειτουργία έκδοσης εικόνας. Θα πρέπει να πατήσετε Εφαρμογή ή Αναίρεση αλλαγών εικόνα (ή πατήστε ESC), πριν κάνετε οτιδήποτε."
+
+msgid "Image alt:"
+msgstr "Ενναλ Εικόνα:"
+
+msgid "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+msgstr "Το εναλλακτικό κείμενο είναι πολύ σημαντικό, επειδή οι περισσότεροι πελάτες ηλεκτρονικού ταχυδρομείου μπλοκάρουν τις αρχικό εικόνες και δείχνουν το εναλλακτικό κείμενο."
+
+msgid "Image link:"
+msgstr "Σύνδεσμος εικόνας:"
+
+msgid "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+msgstr ""
+"Βάλτε url, αν θέλετε να βάλετε σύνδεσμο γύρω από την εικόνα, για παράδειγμα:\n"
+"http://www.mysite.com/mypage.html."
+
+msgid "Multilanguage"
+msgstr "Πολυγλωσσικό"
+
+msgid "Make your own templates how-to"
+msgstr "Φτιάξτε τα δικά σας πρότυπα πώς-να "
+
+msgid "From date:"
+msgstr "Από ημνία:"
+
+msgid "to date:"
+msgstr "μέχρι ημνία:"
+
+msgid "last 7 days"
+msgstr "τελευταίες 7 ημέρες"
+
+msgid "last 30 days"
+msgstr "τελευταίες 30 ημέρες"
+
+msgid "last week"
+msgstr "την περασμένη εβδομάδα"
+
+msgid "last month"
+msgstr "τον περασμένο μήνα"
+
+msgid "The date range you have selected is not available."
+msgstr "Το εύρος ημερομηνίας που επιλέξατε δεν είναι διαθέσιμο."
+
+msgid "Current status of subscriptions"
+msgstr "Τρέχουσα κατάσταση των συνδρομών"
+
+msgid "Active users:"
+msgstr "Ενεργοί χρήστες:"
+
+msgid "Not confirmed:"
+msgstr "Μη επιβεβαιωμένα:"
+
+msgid "Unsubscribed users:"
+msgstr "Μη συνδρομητές χρήστες:"
+
+msgid "Total:"
+msgstr "Συνολικα:"
+
+msgid "Currently have no subscribers."
+msgstr "Επί του παρόντος δεν έχουν συνδρομητές."
+
+msgid "Accumulated sign ups and unsubscribes from date:"
+msgstr "Συσσωρευμένες εγγραφές και μη συνδρομητές από την ημερομηνία:"
+
+msgid "You must select a right date range"
+msgstr "Θα πρέπει να επιλέξετε ένα σωστό εύρος ημερομηνιών"
+
+msgid "Sign ups"
+msgstr "Εγγραφές"
+
+msgid "Unsubscriptions"
+msgstr "Μη συνδρομές"
+
+msgid "Sendings"
+msgstr "Αποστολές"
+
+msgid "Sendings OK"
+msgstr "Αποστολές ΕΝΤΑΞΕΙ"
+
+msgid "Sendings Error"
+msgstr "Σφάλμα Αποστολών"
+
+msgid "Cant read"
+msgstr "Δεν μπορείτε να διαβάσετε"
+
+msgid "Total clicks"
+msgstr "Συνολικά κλικ"
+
+msgid "Newsletters & clicks from date:"
+msgstr "Ενημερωτικά δελτία και τα κλικ από την ημερομηνία:"
+
+msgid "Link clicks"
+msgstr "Σύνδεσμος των κλικ"
+
+msgid "Total submits"
+msgstr "Συνολικές υποβολές"
+
+msgid "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+msgstr "Σφάλμα: βεβαιωθείτε ότι ο κατάλογος %s υπάρχει και έχει δικαιώματα εγγραφής (chmod 700)."
+
+msgid "Error: there is no image selected"
+msgstr "Σφάλμα: δεν υπάρχει επιλεγμένη εικόνα"
+
+msgid "Knews updated the database successfully. Welcome to %s version."
+msgstr "To Knews ενημέρωσε τη βάση δεδομένων με επιτυχία. Καλώς ήλθατε στην %s έκδοση ."
+
+msgid "Customize widget messages"
+msgstr "Προσαρμογή μηνυμάτων γραφικών στοιχείων"
+
+msgid "Sign up date user cant be understood"
+msgstr "Δεν μπορεί να γίνει κατανοητή η ημερομηνία εγγραφής του χρήστη"
+
+msgid "SQL Error while inserting user"
+msgstr "Σφάλμα SQL κατά την εισαγωγή του χρήστη"
+
+msgid "SQL Error while updating user"
+msgstr "Σφάλμα SQL κατά την ενημέρωση του χρήστη"
+
+msgid "Warning: the email has no subject! %s Edit it again before submit!"
+msgstr "Προσοχή: Η αλληλογραφία δεν έχει θέμα! %s Διορθώστε πάλι πριν την υποβολή!"
+
+msgid "Warning: %sConfigure sender name before submit!"
+msgstr "Προειδοποίηση: %s Ρυθμίστε το όνομα του αποστολές πριν την υποβολή!"
+
+msgid "text_direction"
+msgstr "ltr"
+
+msgid "cant_read_text_1"
+msgstr "Αν δεν μπορείτε να διαβάσετε αυτό το email κάντε κλικ"
+
+msgid "cant_read_text_link"
+msgstr "εδώ"
+
+msgid "cant_read_text_2"
+msgstr ""
+
+msgid "unsubscribe_text_1"
+msgstr "Αν επιθυμείτε να διαγραφείτε από τη λίστα μας, κάντε κλικ"
+
+msgid "unsubscribe_text_link"
+msgstr "εδώ"
+
+msgid "unsubscribe_text_2"
+msgstr ""
+
+msgid "Sign Ups & Blocks"
+msgstr "Εγγραφές & Μπλοκαρίσματα"
+
+msgid "Use the CRON server (recommended)"
+msgstr "Χρησιμοποιήστε το διακομιστή CRON (συνιστάται)"
+
+msgid "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+msgstr "Κατεύθυνση κειμένου, αριστερά προς τα δεξιά ή δεξιά προς τα αριστερά: βάλτε <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+
+msgid "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+msgstr "Προεπιλεγμένη στοίχιση  (<span style=\"color:#e00\">αριστερά</span> από τα αριστερά προς τα δεξιά γλώσσες και <span style=\"color:#e00\">δεξιά</span> για δεξιά προς τα αριστερά γλώσσες)"
+
+msgid "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+msgstr "Αντίστροφη ευθυγράμμιση (<span style=\"color:#e00\">δεξιά</span> από τα αριστερά προς τα δεξιά γλώσσες και <span style=\"color:#e00\">αριστερά</span> για δεξιά προς τα αριστερά γλώσσες)"
+
+msgid "Cant read text 1"
+msgstr "Δεν μπορώ να διαβάσω το κείμενο 1"
+
+msgid "Cant read text link"
+msgstr "Δεν μπορώ να διαβάσω τον σύνδεσμο του κειμένου"
+
+msgid "Cant read text 2"
+msgstr "Δεν μπορώ να διαβάσω το κείμενο 2"
+
+msgid "Unsubscribe text 1"
+msgstr "Διαγραφή κειμένου 1"
+
+msgid "Unsubscribe text link"
+msgstr "Σύνδεσμος κειμένου διαγραφής"
+
+msgid "Unsubscribe text 2"
+msgstr "Διαγραφή κειμένου 2"
+
+msgid "default_alignment"
+msgstr "αριστερά"
+
+msgid "inverse_alignment"
+msgstr "δεξιά"
+
+msgid "The read more text link"
+msgstr "Ο σύνδεσμος για επιπλέον κείμενο"
+
+msgid "read_more_link"
+msgstr "συνεχίστε να διαβάζετε"
+
+msgid "Image URL:"
+msgstr "URL εικόνας:"
+
+msgid "Image align:"
+msgstr "Ευθυγράμμιση εικόνας:"
+
+msgid "Apply changes"
+msgstr "Εφαρμογή αλλαγών"
+
+msgid "Undo"
+msgstr "Αναίρεση"
+
+msgid "Fast selection:"
+msgstr "Γρήγορη επιλογή:"
+
+msgid "You are downgraded the version of Knews, you can lose data, please update quickly"
+msgstr "Υποβαθμίζετε την έκδοση του Knews, μπορείτε να χάσετε τα δεδομένα, παρακαλούμε να κάνετε ενημέρωση "
+
+msgid "http://www.knewsplugin.com/tutorial/"
+msgstr "http://www.knewsplugin.com/tutorial/"
+
+msgid "http://www.knewsplugin.com/configure-smtp-submits/"
+msgstr "http://www.knewsplugin.com/configure-smtp-submits/"
+
+msgid "http://www.knewsplugin.com/configure-webserver-cron/"
+msgstr "http://www.knewsplugin.com/configure-webserver-cron/"
+
+msgid "Multisite detected. Only one instance of %s must be called for all websites."
+msgstr "Πολυκεντρική ανιχνευθεί. Μόνο ένα παράδειγμα του %s πρέπει να καλείται για όλες τις ιστοσελίδες."
+
+msgid "Cant create the automated submit"
+msgstr "Δεν μπορώ να δημιουργήσω την αυτόματη υποβολή "
+
+msgid "Widget \"%s\" label form"
+msgstr "Ετικέτα γραφικού στοιχείου \"%s\" φόρμας"
+
+msgid "Auto-create"
+msgstr "Αυτόματη δημιουργία"
+
+msgid "Knews Post Options"
+msgstr "Επιλογές δημοσίευσης του Knews"
+
+msgid "Add a subscription form into the sidebar"
+msgstr "Προσθήκη φόρμας συνδρομής στη πλαϊνή στήλη"
+
+msgid "Dont ask"
+msgstr "Μη ερωτηθέντα"
+
+msgid "Not required"
+msgstr "Μη απαιτούμενα"
+
+msgid "Required"
+msgstr "Απαιτούμενα"
+
+msgid "Automated process deleted"
+msgstr "Η αυτοματοποιημένη διαδικασία διαγράφηκε "
+
+msgid "Automated process activated"
+msgstr "Η αυτοματοποιημένη διαδικασία ενεργοποιήθηκε"
+
+msgid "Automated process deactivated"
+msgstr "Η αυτοματοποιημένη διαδικασία απενεργοποιήθηκε"
+
+msgid "Automated submit activated"
+msgstr "Η αυτοματοποιημένη υποβολή ενεργοποιήθηκε"
+
+msgid "Manual submit activated"
+msgstr "Η Χειροκίνητη υποβολή ενεργοποιήθηκε"
+
+msgid "Automated submit created"
+msgstr "Η αυτοματοποιημένη υποβολή δημιουργήθηκε"
+
+msgid "Error: the name cant be empty"
+msgstr "Σφάλμα: το όνομα δεν μπορεί να είναι κενό"
+
+msgid "Error: there is already an automated submit with this name"
+msgstr "Σφάλμα: υπάρχει ήδη μία αυτοματοποιημένο υποβολή με αυτό το όνομα"
+
+msgid "Auto-create Newsletters"
+msgstr "Αυτόματη δημιουργία Ενημερωτικών Δελτίων"
+
+msgid "Automated process name"
+msgstr "Ονομα αυτοματοποιημένης διαδικασίας"
+
+msgid "Target"
+msgstr "Στόχος"
+
+msgid "Activated"
+msgstr "Ενεργή"
+
+msgid "Automatic submit"
+msgstr "Αυτόματη υποβολή"
+
+msgid "Method"
+msgstr "Μέθοδος"
+
+msgid "Last run"
+msgstr "Τελευταία εκτέλεση"
+
+msgid "Activate/deactivate the automated task"
+msgstr "Ενεργοποίηση / απενεργοποίηση της αυτόματης εργασίας"
+
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+msgid "Automatic/Manual submits of auto-created newsletters"
+msgstr "Αυτόματες/Χειροκίνητες υποβολές των αυτοδημιούργητων ενημερωτικών δελτίων"
+
+msgid "Delete definitively this automated task"
+msgstr "Οριστική διαγραφή της αυτοματοποιημένης εργασίας"
+
+msgid "Off"
+msgstr "Σβηστή"
+
+msgid "On"
+msgstr "Ανοιχτή"
+
+msgid "Automated submit"
+msgstr "Αυτοματοποιημένη υποβολή"
+
+msgid "Manual submit"
+msgstr "Χειροκίνητη υποβολή"
+
+msgid "Automated submits"
+msgstr "Αυτοματοποιημένες υποβολές"
+
+msgid "At the moment there is no automated task, you can create new ones"
+msgstr "Προς το παρόν δεν υπάρχει αυτοματοποιημένη εργασία, μπορείτε να δημιουργήσετε νέες"
+
+msgid "New Auto-creation Process"
+msgstr "Νέα αυτόματη δημιουργία διεργασίας"
+
+msgid "Auto-create Newsletters Tutorial"
+msgstr "Εκμάθηση Αυτόματης δημιουργίας Ενημερωτκών Δελτίων"
+
+msgid "Get posts from language:"
+msgstr "Πάρτε τις αναρτήσεις από τη γλώσσα:"
+
+msgid "Use as template:"
+msgstr "Χρήση ως πρότυπο:"
+
+msgid "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+msgstr "Πρέπει πρώτα να δημιουργήσετε ένα ενημερωτικό δελτίο με εισαγόμενες πληροφορίες (αφήστε το %the_content%, %the_title% etc.)"
+
+msgid "Create a newsletter every %s posts"
+msgstr "Δημιούργησε ένα ενημερωτικό δελτίο κάθε %s αναρτήσεις"
+
+msgid "Error: there are no mailing lists"
+msgstr "Σφάλμα: δεν υπάρχουν λίστες αλληλογραφίας"
+
+msgid "Advanced options"
+msgstr "Επιλογές για προχωρημένους"
+
+msgid "Automated options"
+msgstr "Επιλογές αυτοματοποίησης"
+
+msgid "Include the posts in the automated newsletters (default value for the new created posts)"
+msgstr "Συμπεριλάβετε τις αναρτήσεις στα αυτοματοποιημένα ενημερωτικά δελτία (προεπιλεγμένη τιμή για τις νέες αναρτήσεις)"
+
+msgid "Manual Newsletters"
+msgstr "Χειροκίνητα Ενημερωτικά Δελτία"
+
+msgid "Auto-created Newsletters"
+msgstr "Αυτοδημιούργητα Ενημερωτικά Δελτία"
+
+msgid "There is no auto-created newsletter."
+msgstr "Δεν υπάρχει αυτοδημιούργητο ενημερωτικό δελτίο"
+
+msgid "http://www.knewsplugin.com/automated-newsletter-creation/"
+msgstr "http://www.knewsplugin.com/automated-newsletter-creation/"
+
+msgid "widget_label_name"
+msgstr "Όνομα:"
+
+msgid "widget_label_surname"
+msgstr "Επίθετο:"
+
+msgid "General options"
+msgstr "Γενικές επιλογές"
+
+msgid "Include this post in the automated newsletters?"
+msgstr "Συμπερίληψη αυτής της ανάρτησης στα αυτοματοποιημένα ενημερωτικά δελτία;"
+
+msgid "This post has been included into:"
+msgstr "Αυτή η ανάρτηση έχει συμπεριληφθεί σε:"
+
+msgid "This post still not included into any automated newsletter."
+msgstr "Αυτή η ανάρτηση δεν περιλαμβάνεται ακόμη σε οποιοδήποτε αυτόματο ενημερωτικό δελτίο."
+
+msgid "Active process:"
+msgstr "Ενεργή διαδικασία:"
+
+msgid "Newsletter creation options"
+msgstr "Επιλογές δημιουργίας ενημερωτικού δελτίου"
+
+msgid "Create a newsletter every x amount of time"
+msgstr "Δημιουργία ενημερωτικού δελτίου κάθε x χρονικό διάστημα"
+
+msgid "Newsletter submit options"
+msgstr "Επιλογές υποβολής ενημερωτικού δελτίου"
+
+msgid "Target for newsletter:"
+msgstr "Στόχος για το ενημερωτικό δελτίο:"
+
+msgid "Submit method:"
+msgstr "Μέθοδος υποβολής:"
+
+msgid "Messages reset to defaults."
+msgstr "Τα μηνύματα να επανέλθουν στις προεπιλογές."
+
+msgid "(high performance SMTP)"
+msgstr "(υψηλής απόδοσης SMTP)"
+
+msgid "All categories"
+msgstr "Ολες οι κατηγορίες"
+
+msgid "Error: Please, fill all the form"
+msgstr "Σφάλμα: Παρακαλώ, συμπληρώστε όλη τη φόρμα"
+
+msgid "Mantain current data and add new mailing lists"
+msgstr "Διατήρησε τα τρέχοντα δεδομένα και πρόσθεσε νέες λίστες αλληλογραφίας"
+
+msgid "of"
+msgstr "από"
+
+msgid "SMTP Secure"
+msgstr "SMTP Ασφάλεια"
+
+msgid "Step"
+msgstr "Βήμα"
+
+msgid "Submit automatic"
+msgstr "Αυτόματη υποβολή"
+
+msgid "This template requires Knews version %s you must update Knews before use this template"
+msgstr "Αυτό το πρότυπο απαιτεί την έκδοση Knews %s πρέπει να ενημερώσετε το Knews πριν χρησιμοποιήσετε αυτό το πρότυπο"
+
+msgid "This template requires the professional version of Knews. You can get it %s here"
+msgstr "Αυτό το πρότυπο απαιτεί την επαγγελματική έκδοση του Knews. Μπορείτε να την πάρετε %s εδώ"
+
+msgid "Compatibility options"
+msgstr "Επιλογές συμαβατότητας"
+
+msgid "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+msgstr "<strong>Το Knews είναι τώρα εγγεγραμμένο</strong>. Μετάβαση στη %s  διαχείριση του πρόσθετου %s και κάντε κλικ στο σύνδεσμο  «Έλεγχος για ενημερώσεις» του Knews για αναβάθμιση. Σας ευχαριστώ πολύ."
+
+msgid "Knews runs every hour the automated newsletter creation jobs."
+msgstr "To Knews εκτελεί κάθε ώρα τις εργασίες δημιουργίας αυτοματοποιημένων ενημερωτικών δελτίων."
+
+msgid "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+msgstr "Μπορείτε τώρα να ενεργοποιήσετε χειροκίνητα αυτό το έργο (συνιστάται μόνο για λόγους δοκιμής) %s Εκτέλεση Αυτοματοποιημένης Δημιουργίας Τώρα"
+
+msgid "Knews submit runs every 10 minutes and sends a portion of the list."
+msgstr "Η υποβολή του Knews εκτελείτε κάθε 10 λεπτά και στέλνει ένα μέρος της λίστας."
+
+msgid "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+msgstr "Μπορείτε να ενεργοποιήσετε χειροκίνητα το JavaScript CRON εάν το ενημερωτικό δελτίο σας δεν έχει σταλεί για οποιοδήποτε λόγο: %s Εκτέλεση JS-Cron Τώρα"
+
+msgid "Widget subscription form title"
+msgstr "Τίτλος φόρμας για το γραφικό στοιχείο συνδρομής"
+
+msgid "Widget latest newsletters title"
+msgstr "Τίτλος γραφικού στοιχείου γιαωτο τελευταίο ενημερωτικό δελτίο "
+
+msgid "Mobile version text link"
+msgstr "Κείμενο συνδέσμου φορητής έκδοσης"
+
+msgid "Desktop version text link"
+msgstr "Κείμενο συνδέσμου επιτραπέζιας έκδοσης"
+
+msgid "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+msgstr "Είστε υποβαθμιστεί στη δωρεάν έκδοση του Knews, μπορείτε να χάσετε τα δεδομένα, παρακαλούμε να ενημερώσετε γρήγορα! Μπορείτε να πάρετε την επαγγελματική έκδοση %s εδώ"
+
+msgid "Max number of newsletters: <br />(-1 for infinite):"
+msgstr "Μέγιστος αριθμός ενημερωτικών δελτίων: <br />(-1 για άπειρα):"
+
+msgid "Hide not sent newsletters?"
+msgstr "Απόκρυψη μη αποστολή ενημερωτικών δελτίων ?"
+
+msgid "Hide automated newsletters?"
+msgstr "Απόκρυψη αυτοματοποιημένων ενημερωτικών δελτίων ?"
+
+msgid "Customize widget title"
+msgstr "Προσαρμογή τίτλου γραφικού στοιχείου"
+
+msgid "Knews Pro options"
+msgstr "Επιλογές του Knews Pro"
+
+msgid "Your e-mail (used for the Knews Shop account):"
+msgstr "Η αλληλογραφίας σας (χρησιμοποιείται για το λογαριασμό του Knews Shop):"
+
+msgid "Registration"
+msgstr "Εγγραφή"
+
+msgid "Serial Key:"
+msgstr "Σειριακό Κλειδί:"
+
+msgid "(get it in our shop, login and click on \"My Downloads\" page)"
+msgstr "(πάρτε το στο κατάστημά μας, συνδεθείτε και κάντε κλικ στη σελίδα \"My Downloads\")"
+
+msgid "Save Serial"
+msgstr "Αποθήκευση Σειριακού"
+
+msgid "Bounce configuration"
+msgstr "Ρύθμιση ανεπίδοτου"
+
+msgid "Bounce detection deactivated"
+msgstr "Απερνεργοποίηση ανίχνευσης ανεπίδοτου"
+
+msgid "Bounce detection activated"
+msgstr "Ενεργοποίηση ανίχνευσης ανεπίδοτου"
+
+msgid "POP3 Mail host:"
+msgstr "Φιλοξενητής αλληλογραφίας POP3:"
+
+msgid "POP3 Port:"
+msgstr "Πόρτα POP3:"
+
+msgid "User account:"
+msgstr "Λογοριασμός χρήστη:"
+
+msgid "User password"
+msgstr "Κωδικός χρήστη:"
+
+msgid "Secure connection:"
+msgstr "Ασφαλής σύνδεση:"
+
+msgid "Before enabling the Bounce detection, enter the values and click on TEST button"
+msgstr "Πριν ενεργοποιήσετε την ανίχνευση ανεπίδοτου, εισάγετε τις τιμές και κάντε κλικ στο πλήκτρο TEST"
+
+msgid "Test POP3 config"
+msgstr "Ελεγχος ρυθμίσεων POP3"
+
+msgid "Cant connect to POP3 mail server, please, check the configuration values"
+msgstr "Δεν είναι δυνατή η σύνδεση στο διακομιστή αλληλογραφίας POP3, παρακαλούμε, ελέγξτε τις τιμές ρυθμίσεων"
+
+msgid "Bounce tutorial"
+msgstr "Εκμάθηση ανεπίδοτου"
+
+msgid "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+msgstr "Το Knews Pro περιλαμβάνει ένα σύστημα ανίχνευσης ανεπίδετης αλληλογραφίας, χρειάζεται έναν αποκλειστικό λογαριασμό, όπως bounce@yourdomain.com. Πρώτα, δημιουργήστε το λογαριασμό, στη συνέχεια, συμπληρώστε τα πεδία ρυθμίσεων, μετά δοκιμάστε τη σύνδεση και αν όλα λειτουργούν σωστά, ενεργοποιήστε και  αποθηκεύστε."
+
+msgid "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+msgstr "Χρησιμοποιήστε την ημερομηνία έκδοσης της ανάρτησης αντί της ημερομηνίας δημιουργίας για τα αυτοματοποιημένα ενημερωτικά δελτία (παλαιότερες αναρτήσεις δεν περιλαμβάνονται στην αυτοματοποίηση, θα περιλαμβάνονται, αν ενεργοποιήσετε αυτή την επιλογή)"
+
+msgid "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+msgstr "Εφαρμογή φίλτρου the_content στην εισαγωγή της ανάρτησης του ενημερωτικού δελτίου (Απενεργοποίηση για τα θέματα συμβατότητας με ορισμένα πρόσθετα όπως το NextGen Gallery)"
+
+msgid "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you cant deactivate this option, because it uses this filter to divide the post contents into different languages."
+msgstr "<strong>Σημείωση</strong>: αν χρησιμοποιείτε το <strong>qTranslate</ strong> δεν μπορείτε να απενεργοποιήσετε αυτή την επιλογή, επειδή χρησιμοποιεί αυτό το φίλτρο για να χωρίσει τα περιεχόμενα της ανάρτησης σε διαφορετικές γλώσσες."
+
+msgid "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+msgstr "Αποτροπή bot καταχωρίσεων. Για μερικά πρόσθετα Cache μπορεί να χρειαστείτε να απενεργοποιήσετε αυτή την επιλογή (Μήνυμα: Η συνδρομή πάντα αποτυγχάνει \"λάθος δνση αλληλογραφίας\")."
+
+msgid "Premium options"
+msgstr "Πριμοδοτημένες επιλογές"
+
+msgid "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+msgstr "Απόκρυψη προεπιλεγμένων προτύπων (λειτουργεί μόνο εάν τουλάχιστον ένα πρότυπο είναι εγκατεστημένο στο (/wp-content/uploads/knewstemplates /)"
+
+msgid "Hide Knews Shop Products offers"
+msgstr "Απόκρυψη προσφορών προϊόντων του Knews"
+
+msgid "WordPress user syncronization"
+msgstr "Συγχρονισμός των WordPress χρηστών"
+
+msgid "Subscribe new WordPress users to:"
+msgstr "Εγγραφή νέων χρηστών WordPress για:"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "Newsletter deleted"
+msgstr "Το Ενημερωτικό Δελτίο διαγράφηκε"
+
+msgid "Newsletter name updated"
+msgstr "Το όνομα του Ενημερωτικού Δελτίου ενημερώθηκε"
+
+msgid "Newsletter duplicated"
+msgstr "Το Ενημερωτικό Δελτίο αντιγράφηκε"
+
+msgid "Desktop and mobile versions"
+msgstr "Επιτραπέζιες και φορητές εκδόσης"
+
+msgid "Desktop version only"
+msgstr "Επιτραπέζια έκδοση μόνο"
+
+msgid "Unconfirmed"
+msgstr "Ανεπιβεβαίωτα"
+
+msgid "Bounce"
+msgstr "Ανεπίδoτα"
+
+msgid "Bounced"
+msgstr "Aνεπίδοτο"
+
+msgid "Mark as bounced email"
+msgstr "Σημειωμένα ως ανεπίδοτα μηνύματα"
+
+msgid "Mark as activated"
+msgstr "Σημειωμένα ως ενεργοποιημένα"
+
+msgid "Mark as blocked"
+msgstr "Σημειωμένα ως μπλοκαρισμένα"
+
+msgid "Mark as bounced"
+msgstr "Σημειωμένα ως ανεπίδοτα"
+
+msgid "Subscribe to list"
+msgstr "Εγγραφή στη λίστα"
+
+msgid "Unsubscribe to list"
+msgstr "Κατάργηση από λίστα"
+
+msgid "Choose one list"
+msgstr "Επιλέξτε μία λίστα"
+
+msgid "You dont have any mobile template!"
+msgstr "Δεν έχετε κανένα πρότυπο για φορητά"
+
+msgid "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+msgstr "Υπάρχει ένα βίντεο εκμάθησης σχετικά  με το Knews WYSIWYG Editor, %s δείτε το στο Youtube"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+msgstr "Δυστυχώς, αυτό είναι ένα πρόσθετο χαρακτηριστικό. Παρακαλώ,%s κάντε κλικ εδώ και δείτε όλες τα Knews Pro χαρακτηριστικά."
+
+msgid "Warning! You arent selected any mailing list, do you want to continue?"
+msgstr "Προσοχή! Δεν έχετε επιλέξει καμία λίστα, θέλετε να συνεχίσετε;"
+
+msgid "The field name cant be empty"
+msgstr "Το όνομα του πεδίου δεν μπορεί να είναι κενό"
+
+msgid "Select the %s filtered subscribers to perform a massive action"
+msgstr "Επιλέξτε τους %s φιλτραρισμένους συνδρομητές για να εκτελεστεί μια μαζική ενέργεια"
+
+msgid "Select all your subscribers (%s) to perform a massive action"
+msgstr "Επιλέξτε όλους τους συνδρομητές (%s) για να εκτελεστεί μια μαζική ενέργεια"
+
+msgid "Roles and capabilities saved."
+msgstr "Ρόλοι και δυνατότητες καταχωρήθηκαν."
+
+msgid "Roles and capabilities"
+msgstr "Ρόλοι και δυνατότητες"
+
+msgid "Role name"
+msgstr "Ονομα ρόλου"
+
+msgid "Can see Knews Stats"
+msgstr "Μπορεί να δει τα Knews στατιστικά"
+
+msgid "Can manage newsletters"
+msgstr "Μπορεί να διαχειριστεί τα ενημερωτικά δελτία"
+
+msgid "Can manage users"
+msgstr "Μπορεί να διαχειριστεί τους χρήστες"
+
+msgid "Can configure Knews"
+msgstr "Μπορεί να ρυθμίσει το Knews"
+
+msgid "All subscribers"
+msgstr "Ολοι οι συνδρομητές"
+
+msgid "Do WordPress user importation"
+msgstr "Κάνε εισαγωγή WordPress χρήστη"
+
+msgid "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+msgstr "Εισαγωγή <strong>όλων</strong> των WordPress χρηστών και συνδρομητών στην λίστα αλληλογραφίας:"
+
+msgid "Assign the language:"
+msgstr "Αντιστοίχηση της γλώσσας:"
+
+msgid "Import WP users into Knews"
+msgstr "Εισαγωγή των WP χρηστών στο Knews"
+
+msgid "Users imported: %s. Users found before (not re-imported): %s."
+msgstr "Οι χρήστες εισήχθησαν: %s. Οι χρήστες που βρέθηκαν πριν (δεν επανεισήχθησαν): %s."
+
+msgid "Errors submitting confirmation: %s"
+msgstr "Λάθη υποβολής επιβεβαίωσης: %s"
+
+msgid "Order"
+msgstr "Παραγγελία"
+
+msgid "New Auto-create Newsletters Process"
+msgstr "Νέα διεργασία αυτοδημιούργητου Ενημερωτικού Δελτίου"
+
+msgid "Automated process name:"
+msgstr "Ονομα αυτοματοποιημένης διεργασίας:"
+
+msgid "desktop_version_text_link"
+msgstr "Επιτραπέζια Έκδοση"
+
+msgid "Knews Pro is currently installed."
+msgstr "Το Knews Pro είναι εγκατεστημένο."
+
+msgid "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+msgstr "Μόνο από το %s βασικό πίνακα εργαλειών του blog %s οι αναβαθμίσεις του Knews μπορούν να διαχειριστούν. Ίσως μόνο ο διαχειριστής του δικτύου μπορεί να το κάνει."
+
+msgid "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+msgstr "Προσοχή: αν δεν έχετε καμία λίστα ανοιχτή, το γραφικό στοιχείο συνδρομής δεν θα εμφανιστεί"
+
+msgid "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+msgstr "Προσοχή: δεν έχετε καμία λίστα ανοιχτή για τους συνδεδεμένους χρήστες, το γραφικό στοιχείο συνδρομής δεν θα εμφανιστεί μέχρι να κάνετε αποσύνδεση"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:164
+#: admin/knews_admin_lists.php:148
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: Text in function
+#: knews.php:520
+msgid "Subscribe me"
+msgstr "Να γίνω συνδρομητής"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:154
+msgid "WARNING"
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ"
+
+#: Text in echo
+#: admin/knews_admin_config.php:149
+msgid "here"
+msgstr "εδώ"
+
+msgid "Show/hide handlers"
+msgstr "Εμφάνιση/απόκρυψη εξεραίσεις"
+
+msgid "Alerts"
+msgstr "Ειδοποιήσεις"
+
+msgid "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+msgstr "Θα πρέπει να καλέσετε το βασικό blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+
+msgid "mobile_version_text_link"
+msgstr "mobile_version_text_link"
+
+msgid "Widget %s label form"
+msgstr "Ετικέτα φόρμας %s γραφικού στοιχείου"
+
+msgid "http://www.knewsplugin.com/automated-bounced-email-handling"
+msgstr "http://www.knewsplugin.com/automated-bounced-email-handling"
+
+msgid "Load SMTP defaults:"
+msgstr "Προκαθορισμένες τιμές SMTP:"
+
+msgid "Gmail SMTP"
+msgstr "Gmail SMTP"
+
+msgid "My hosting is 1&1"
+msgstr "Η φιλοξενία μου είναι 1&1"
+
+msgid "My Hosting is GoDaddy"
+msgstr "Η φιλοξενία μου στο GoDaddy"
+
+msgid "Yahoo SMTP"
+msgstr "Yahoo SMTP"
+
+msgid "<strong>Knews:</strong> Do you want to stay-in-touch about latest Knews features, tips and tricks? Please, subscribe to our newsletter %s here"
+msgstr "<strong>Knews:</strong> Θέλετε να μείνετε σε επαφή σχετικά με τις τελευταίες δυνατότητες του Knews, συμβουλές και κόλπα; Παρακαλούμε, εγγραφείτε στο ενημερωτικό δελτίο μας %s εδώ"
+
+msgid "Prioritary Support"
+msgstr "Υποστήριξη Προτεραιοτήτων"
+
+msgid "Prioritary Support for Knews Pro"
+msgstr "Υποστήριξη Προτεραιοτήτων για το Knews Pro"
+
+msgid "Name:"
+msgstr "Ονομα:"
+
+msgid "E-mail:"
+msgstr "Αλληλογραφία:"
+
+msgid "Please, explain your questions in English, Spanish or Catalan:"
+msgstr "Παρακαλώ, εξηγήστε τις ερωτήσεις σας στα αγγλικά, ισπανικά ή καταλανικά:"
+
+msgid "Close and Save Changes"
+msgstr "Κλείσιμο και Αποθήκευση αλλαγών"
+
+msgid "Close and Discard Changes"
+msgstr "Κλείσιμο και Απόρριψη αλλαγών"
+
+msgid "Custom Post Types configuration"
+msgstr "Διαμόρφωση Προσαρμοσμένων Τύπων Αναρτήσεων"
+
+msgid "Custom Post Type"
+msgstr "Προσαρμοσμένος Τύπος Ανάρτησης"
+
+msgid "Use in manual post selection"
+msgstr "Χρήση στην χειροκίνητη επιλογή ανάρτησης"
+
+msgid "Use it for automate newsletters"
+msgstr "Χρησιμοποιήστε το για αυτοματοποιημένα ενημερωτικά δελτία"
+
+msgid "widget_required"
+msgstr "* Αυτό το πεδίο είναι απαραίτητο"
+
+msgid "widget_label_terms"
+msgstr "Αποδέχομαι τους όρους και τις προϋποθέσεις"
+
+msgid "widget_subtitle"
+msgstr "Εγγραφείτε στο ενημερωτικό δελτίο μας, θα σας κρατήσει ενήμερους:"
+
+msgid "ajax_wrong_fields"
+msgstr "Παρακαλώ, ελέγξτε τα απαραίτητα πεδία"
+

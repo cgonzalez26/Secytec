@@ -1,0 +1,123 @@
+/* -----------------------------------------
+   ADMIN AREA GENERAL CLASSES
+----------------------------------------- */
+.smartadapt-fieldset{
+	border: 1px solid #DFDFDF;
+
+	border-radius: 3px;
+  padding: 15px;
+
+}
+.smartadapt-fieldset label{
+	display: block;
+}
+.smartadapt-fieldset h4{
+	font-size: 14px;
+	padding: 4px 0px;
+	border-bottom: 1px solid #DFDFDF;
+	margin: 0 0 10px 0;
+}
+.smartadapt-fieldset .smartadapt-form-block{
+	border-bottom: 1px solid #DFDFDF;
+	padding: 0px 0 20px 0;
+	margin-bottom: 20px;
+}
+.smartadapt-prompt{
+	margin: 3px 0 0 0;
+	font-style: italic;
+	font-size: 11px;
+}
+.smartadapt-radio-label{
+	float: left;
+	min-width: 120px;
+	padding-right: 20px;
+	margin-right: 20px;
+	text-align: right;
+
+}
+.smartadapt-form-line{
+	margin-bottom: 10px;
+}
+/* -----------------------------------------
+   CUSTOMIZE PANEL
+----------------------------------------- */
+
+/*layout & sidebar width section*/
+.range-fieldset label{
+	width: 40%;
+	float: left;
+	padding: 3px 0px;
+}
+.range-fieldset input{
+	width: 60px!important;
+	float: left;
+}
+.range-fieldset .noUiSlider{
+	clear: both;
+	margin: 15px 0px;
+	width: 200px!important;
+	float: left;
+}
+.range-fieldset span{
+	float: left;
+	margin: 5px;
+}
+
+/*default image field*/
+.smartadapt-image{
+	width: 200px;
+	height: 200px;
+	margin: 20px 0;
+	background: #eee;
+	border:1px solid #ddd;
+	overflow: hidden;
+}
+.smartadapt-image img{
+	max-width: 100%;
+	height: auto;
+}
+
+/*proversions componnets*/
+.smartadapt-form-proversion-info-outer{
+	position: relative;
+	margin-top: 20px;
+	padding-bottom: 15px;
+	border-bottom: 1px dashed #d7dadb;
+}
+.smartadapt-proversion-link{
+	display: block;
+	margin-top: -20px;
+	color: #A10518;
+	font-size: 16px;
+	font-weight: bold;
+}
+.smartadapt-form-proversion-info-inner{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 730px;
+	height: 100%;
+	background: url('img/bg-transparent.png');
+}
+.smartadapt-resize-readonly-image{
+	background: url('img/resize-sidebar.png');
+	width: 264px;
+	height: 86px;
+}
+.smartadapt-resize-font-pro-image{
+	width: 100%;
+	height: 124px;
+	background: url('img/typography-options.png') no-repeat;
+}
+.smartadapt-color-readonly-image{
+	width: 100%;
+	height: 314px;
+	background: url('img/colors-option.png') no-repeat;
+}
+.smartadapt-userphoto-readonly-image{
+	background: url('img/user-photo.png') no-repeat;
+	width: 100%;
+	height: 300px;
+}
+

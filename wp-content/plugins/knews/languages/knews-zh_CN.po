@@ -1,0 +1,2607 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Knews\n"
+"Language: zh-CN\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles <mail@carlesrever.com>\n"
+"Language-Team: \n"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Schedule submit"
+msgstr "排期发送"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(highest)"
+msgstr "(最高)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(lowest)"
+msgstr "(最低)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(normal)"
+msgstr "(普通)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Batch submit process has been properly scheduled."
+msgstr "批量发送进程已妥善排期。"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Activate user directly (don't send e-mail confirmation)"
+msgstr "直接激活用户(不发送邮件确认)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Filter by state"
+msgstr "按状态过滤"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "No users match the search criteria"
+msgstr "没有符合搜索条件的用户"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:142
+msgid "Active users"
+msgstr "激活用户"
+
+#: Text in echo
+#: admin/knews_admin_users.php:162
+msgid "Add extra field"
+msgstr "添加额外字段"
+
+#: Text in echo
+#: admin/knews_admin_users.php:178
+msgid "Add field"
+msgstr "添加字段"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:214
+msgid "Add newsletter"
+msgstr "添加电子简讯"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:309
+msgid "All"
+msgstr "全部"
+
+#. Context lookup needed
+#: Text in function
+#: admin/knews_admin_import.php:362
+msgid "All in"
+msgstr "全部"
+
+#: Text in echo
+#: admin/knews_admin_import.php:668
+msgid "And have been blocked in this import:"
+msgstr "在此次导入中被屏蔽："
+
+#: Text in echo
+#: admin/knews_admin_import.php:649
+msgid "And there have not been imported:"
+msgstr "未能导入："
+
+#: Text in echo
+#: admin/knews_admin_lists.php:155
+msgid "At the moment there is no list, you can create new ones"
+msgstr "目前没有列表，你可以创建新的列表"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:170
+msgid "At the moment there is no newsletter, you can create new ones"
+msgstr "目前没有电子简讯，你可以创建新的电子简讯"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Automatically send confirmation e-mails:"
+msgstr "自动发送确认邮件："
+
+#: Text in echo
+#: admin/knews_admin_config.php:219
+msgid "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+msgstr "在开启发送SMTP之前，输入各项内容及你的邮件地址，再点击“测试”按钮"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Blocked"
+msgstr "已屏蔽"
+
+#: Text in echo
+#: admin/knews_admin_config.php:157
+msgid "CRON"
+msgstr "CRON"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has not yet been configured"
+msgstr "CRON还未配置"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has stopped working."
+msgstr "CRON已停止工作"
+
+#: Text in echo
+#: admin/knews_admin_config.php:164
+msgid "CRON is properly configured"
+msgstr "CRON妥善配置"
+
+#: Text in echo
+#: admin/knews_admin_import.php:228
+msgid "CSV File"
+msgstr "CSV文件"
+
+#: Text in echo
+#: admin/knews_admin_import.php:217
+msgid "CSV Upload"
+msgstr "CSV上传"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+msgid "CSV total:"
+msgstr "CSV总数："
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "I can't submit an e-mail to:"
+msgstr "我无法发送邮件至："
+
+#: Text in echo
+#: admin/knews_admin_config.php:216
+msgid "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+msgstr "注意：如果你的SMTP服务器是匿名的，请保留SMTP用户和SMTP密码字段为空白"
+
+#. CHECK = verify OR select?
+#: Text in echo
+#: admin/knews_admin_import.php:374
+msgid "Check dates"
+msgstr "选中日期"
+
+#. Can I have the context?
+#: Text in function
+#: direct/edit_news.php:49
+msgid "Check the directory permissions for"
+msgstr "检查目录权限"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "Select a column"
+msgstr "选择一栏"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:179
+msgid "Choose a template"
+msgstr "选择一个模板"
+
+#: Text in function
+#: knews.php:520
+msgid "Configuration"
+msgstr "配置"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Confirmed"
+msgstr "已确认"
+
+#: Text in echo
+#: admin/knews_admin_import.php:294
+msgid "Continue"
+msgstr "继续"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:164
+msgid "Create a mailing list"
+msgstr "创建一个邮件列表"
+
+#: Text in echo
+#: admin/knews_admin_users.php:421
+msgid "Create a subscriber manually"
+msgstr "手动创建一个订阅人"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:159
+msgid "Create new mailing list"
+msgstr "创建新的邮件列表"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:175
+msgid "Create new newsletter"
+msgstr "创建新的电子简讯"
+
+#: Text in echo
+#: admin/knews_admin_users.php:457
+msgid "Create a user"
+msgstr "创建一个用户"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:153
+msgid "Created"
+msgstr "已创建"
+
+#: Text in echo
+#: direct/knews_cron.php:135
+msgid "Cron-JS finished, you can close the window"
+msgstr "Cron-JS已完成，你可以关闭窗口"
+
+#: Text in echo
+#: direct/knews_cron.php:131
+msgid "Cron-JS in the process, don't close this window..."
+msgstr "Cron-JS进行中，请勿关闭窗口……"
+
+#: Text in echo
+#: admin/knews_admin_config.php:85
+#: admin/knews_admin_config.php:143
+msgid "Customised messages"
+msgstr "定制消息"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Date (day/month/year)"
+msgstr "日期 (日/月/年)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:159
+#: admin/knews_admin_lists.php:143
+msgid "Delete"
+msgstr "删除"
+
+#: Text in echo
+#: admin/knews_admin_import.php:686
+msgid "Do the import"
+msgstr "进行导入"
+
+#: Text in echo
+#: admin/knews_admin_config.php:209
+msgid "E-mails sent internally using WordPress (wp_mail() function)"
+msgstr "使用WordPress内部发送邮件 (wp_mail() 方法)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:156
+#: admin/knews_admin_news_list.php:167
+#: admin/knews_admin_lists.php:141
+msgid "Edit"
+msgstr "编辑"
+
+#: Text in echo
+#: admin/knews_admin_news_edit.php:28
+msgid "Editing newsletter"
+msgstr "编辑电子简讯"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "E-mails sent at once"
+msgstr "立刻发送邮件"
+
+#: Text in echo
+#: admin/knews_admin_import.php:74
+msgid "Enclosure"
+msgstr "附件"
+
+#: Text in echo
+#: admin/knews_admin_import.php:82
+msgid "Encoding"
+msgstr "编码"
+
+#: Text in function
+#: direct/edit_news.php:49
+#: admin/knews_admin_news_send.php:201
+#: admin/knews_admin_news_send.php:124
+#: admin/knews_admin_news_edit.php:22
+#: admin/knews_admin_users.php:464
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+#: admin/knews_admin_news_list.php:1
+#: admin/knews_admin_lists.php:1
+msgid "Error"
+msgstr "错误"
+
+#: Text in echo
+#: direct/edit_news.php:50
+msgid "Error saving"
+msgstr "保存错误"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "Error: can't move uploaded file."
+msgstr "错误：无法移动上传的文件。"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Error: can't open the file"
+msgstr "错误：不能打开文件"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+msgid "Extra fields"
+msgstr "额外字段"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Field"
+msgstr "字段"
+
+#: Text in echo
+#: admin/knews_admin_import.php:219
+msgid "Fields assignement"
+msgstr "字段赋值"
+
+#: Text in echo
+#: admin/knews_admin_import.php:232
+msgid "File upload"
+msgstr "文件上传"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "File uploaded correctly"
+msgstr "文件已正确上传"
+
+#: Text in echo
+#: admin/knews_admin_users.php:315
+msgid "Filter"
+msgstr "过滤器"
+
+#: Text in echo
+#: admin/knews_admin_users.php:308
+msgid "Filter by mailing list"
+msgstr "按邮件列表过滤"
+
+#: Text in echo
+#: admin/knews_admin_users.php:321
+msgid "Find"
+msgstr "查找"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Finished"
+msgstr "已完成"
+
+#: Text in echo
+#: admin/knews_admin_import.php:218
+msgid "Formatting"
+msgstr "格式化"
+
+#: Text in echo
+#: admin/knews_admin_import.php:401
+#: admin/knews_admin_import.php:686
+#: admin/knews_admin_users.php:260
+msgid "Go back"
+msgstr "返回"
+
+#: Text in echo
+#: admin/knews_admin_users.php:396
+#: admin/knews_admin_users.php:399
+msgid "Go to first page"
+msgstr "转到第一页"
+
+#: Text in echo
+#: admin/knews_admin_users.php:405
+#: admin/knews_admin_users.php:408
+msgid "Go to last page"
+msgstr "转到最末页"
+
+#: Text in echo
+#: admin/knews_admin_users.php:404
+#: admin/knews_admin_users.php:407
+msgid "Go to next page"
+msgstr "转到下一页"
+
+#: Text in echo
+#: admin/knews_admin_users.php:397
+#: admin/knews_admin_users.php:400
+msgid "Go to previous page"
+msgstr "转到上一页"
+
+#: Text in echo
+#: admin/knews_admin_config.php:212
+msgid "Host SMTP"
+msgstr "SMTP主机"
+
+#: Text in echo
+#: admin/knews_admin_import.php:397
+msgid "If a user already exists (matches e-mail)"
+msgstr "如果该用户已存在 (匹配邮件)"
+
+#: Text in echo
+#: admin/knews_admin_import.php:287
+msgid "If you see the correct values, press \"Continue\""
+msgstr "如果你看到正确的内容，点击“继续”"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+msgstr "如果你能够阅读这封邮件，SMTP已正确配置，并可在Knews选项中启用"
+
+#. Can I have the context pls?
+#: Text in echo
+#: admin/knews_admin_import.php:368
+msgid "If you choose a column, allowed values ​​are:"
+msgstr "如果你选择一栏，允许的内容包括："
+
+#: Text in echo
+#: admin/knews_admin_import.php:229
+msgid "If you do not know what values ​​to put, leave these initially, later you can change it"
+msgstr "如果你不知道输入什么内容，保留初始值，你可以在之后修改"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "If you enter a value manually, this will be the same for all users imported"
+msgstr "如果你手动输入内容，相同内容将应用到所有导入的用户"
+
+#: Text in echo
+#: admin/knews_admin_import.php:221
+msgid "Import"
+msgstr "导入"
+
+#: Text in echo
+#: admin/knews_admin_import.php:214
+#: knews.php:520
+msgid "Import CSV"
+msgstr "导入CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:691
+msgid "Import finished"
+msgstr "导入已完成"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import preview (we have not made ​​any changes yet:"
+msgstr "导入预览 (我们还未进行任何改动："
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import results"
+msgstr "导入结果"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+msgid "Inactive language"
+msgstr "停用语言"
+
+#: Text in echo
+#: admin/knews_admin_config.php:180
+msgid "Instructions for setting up CRON"
+msgstr "设置CRON指南"
+
+#: Text in echo
+#: admin/knews_admin_import.php:362
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:326
+#: admin/knews_admin_users.php:460
+msgid "Language"
+msgstr "语言"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Leave empty"
+msgstr "保持空白"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:131
+msgid "List name"
+msgstr "列表名称"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:162
+msgid "Mailing list"
+msgstr "邮件列表"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing list created"
+msgstr "邮件列表已创建"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:78
+#: knews.php:520
+msgid "Mailing lists"
+msgstr "邮件列表"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing lists updated"
+msgstr "邮件列表已更新"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+msgid "Main"
+msgstr "主要"
+
+#: Text in echo
+#: admin/knews_admin_users.php:170
+msgid "Main field"
+msgstr "主要字段"
+
+#: Text in echo
+#: admin/knews_admin_config.php:84
+#: admin/knews_admin_config.php:142
+msgid "Main options"
+msgstr "主要选项"
+
+#: Text in echo
+#: admin/knews_admin_import.php:398
+msgid "Maintain current data"
+msgstr "维持当前数据"
+
+#: Text in echo
+#: admin/knews_admin_import.php:402
+msgid "Make preview"
+msgstr "生成预览"
+
+#: Text in echo
+#: admin/knews_admin_users.php:171
+msgid "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+msgstr "标记此选框，此字段将会在用户表可见。我们建议你不要标记超过2至3个字段以免造成让人困惑的表格。"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:154
+msgid "Modified"
+msgstr "已修改"
+
+#: Text in echo
+#: admin/knews_admin_config.php:145
+msgid "Multilingual"
+msgstr "多语言"
+
+#: Text in echo
+#: admin/knews_admin_users.php:165
+#: admin/knews_admin_news_list.php:178
+msgid "Name"
+msgstr "名称"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:89
+msgid "Name list"
+msgstr "名称列表"
+
+#: Text in echo
+#: admin/knews_admin_users.php:167
+msgid "Name of extra field"
+msgstr "额外字段名称"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:66
+msgid "Newsletter"
+msgstr "邮件列表"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Failed to create the Newsletter"
+msgstr "创建邮件列表失败"
+
+#: Text in function
+#: admin/knews_admin_news_edit.php:22
+msgid "Newsletter doesn't exists"
+msgstr "邮件列表不存在"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Newsletter list updated"
+msgstr "邮件列表已更新"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:152
+msgid "Newsletter name"
+msgstr "邮件列表名称"
+
+#: Text in echo
+#: direct/edit_news.php:51
+msgid "Newsletter saved"
+msgstr "邮件列表已保存"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:123
+#: admin/knews_admin_news_edit.php:21
+#: admin/knews_admin_news_list.php:111
+#: knews.php:520
+msgid "Newsletters"
+msgstr "邮件列表"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "No"
+msgstr "否"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "No delimiters"
+msgstr "无分隔符"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Not confirmed"
+msgstr "未确认"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+msgstr "现在你必须点击这里，接着一个模拟CRON的Javascript视窗将会开启。你应该保持它开启直至发送结束。"
+
+#: Text in echo
+#: admin/knews_admin_import.php:646
+msgid "Of which have been successfully imported:"
+msgstr "其中成功导入："
+
+#. context please
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Ongoing"
+msgstr "进行中"
+
+#. context please
+#: Text in echo
+#: admin/knews_admin_lists.php:90
+#: admin/knews_admin_lists.php:132
+msgid "Open"
+msgstr "开放"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:91
+#: admin/knews_admin_lists.php:133
+msgid "Open for registered users"
+msgstr "开放给注册用户"
+
+#: Text in echo
+#: admin/knews_admin_import.php:399
+msgid "Overwrite"
+msgstr "覆写"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Paused"
+msgstr "已暂停"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Paused?"
+msgstr "已暂停？"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Permission"
+msgstr "权限"
+
+#: Text in echo
+#: admin/knews_admin_config.php:213
+msgid "Port SMTP"
+msgstr "SMTP端口"
+
+#: Text in echo
+#: admin/knews_admin_import.php:220
+#: admin/knews_admin_news_list.php:157
+#: admin/knews_admin_news_list.php:167
+msgid "Preview"
+msgstr "预览"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:67
+#: admin/knews_admin_news_send.php:173
+msgid "Priority"
+msgstr "优先级"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:71
+msgid "Progress / Results"
+msgstr "进度 / 结果"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Properly tabulated"
+msgstr "已妥善制表"
+
+#: Text in echo
+#: admin/knews_admin_config.php:220
+msgid "Recipient"
+msgstr "收件人"
+
+#: Text in echo
+#: admin/knews_admin_config.php:215
+msgid "SMTP Password"
+msgstr "SMTP密码"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "SMTP Submit e-mail test done"
+msgstr "SMTP发送邮件测试已完成"
+
+#: Text in echo
+#: admin/knews_admin_config.php:214
+msgid "SMTP User"
+msgstr "SMTP用户"
+
+#: Text in echo
+#: direct/edit_news.php:73
+#: admin/knews_admin_config.php:116
+#: admin/knews_admin_config.php:228
+msgid "Save"
+msgstr "保存"
+
+#: Text in function
+#: admin/knews_admin_config.php:232
+msgid "Saved."
+msgstr "已保存。"
+
+#: Text in echo
+#: admin/knews_admin_import.php:279
+msgid "Scan CSV again"
+msgstr "重新扫描CSV"
+
+#: Text in function
+#: admin/knews_admin_lists.php:152
+msgid "See users"
+msgstr "查看用户"
+
+#: Text in echo
+#: direct/select_post.php:59
+msgid "Select the post to insert in the newsletter"
+msgstr "选择插入电子简讯的文章"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Send e-mail confirmation"
+msgstr "发送邮件确认"
+
+#: Text in echo
+#: admin/knews_admin_config.php:210
+msgid "Send e-mails using SMTP (recommended)"
+msgstr "使用SMTP发送邮件 (推荐)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:191
+msgid "Send the newsletter manually"
+msgstr "手动发送电子简讯"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:131
+msgid "Send the newsletter to the following lists"
+msgstr "发送电子简讯至以下列表"
+
+#: Text in echo
+#: admin/knews_admin_config.php:187
+msgid "Sender"
+msgstr "发件人"
+
+#: Text in echo
+#: admin/knews_admin_config.php:188
+msgid "Sender e-mail"
+msgstr "发件人邮箱"
+
+#: Text in echo
+#: admin/knews_admin_config.php:189
+msgid "Sender name"
+msgstr "发件人名称"
+
+#: Text in echo
+#: admin/knews_admin_config.php:194
+msgid "Sending"
+msgstr "发送中"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Sending SMTP is not enabled, the shipments are less reliable."
+msgstr "SMTP发送未启用，发送可靠度较低。"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:130
+msgid "Sending newsletter"
+msgstr "电子简讯发送中"
+
+#: Text in echo
+#: admin/knews_admin_import.php:66
+msgid "Separator"
+msgstr "分隔符"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Shipping done, check that the mail has arrived."
+msgstr "发送完成，检查邮件是否收到。"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Special"
+msgstr "特殊"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Start (now or deferred)?"
+msgstr "开始 (立即或延期)？"
+
+#. context please. does the STATE here stand for STATUS or a governed entity?
+#: Text in echo
+#: admin/knews_admin_import.php:357
+#: admin/knews_admin_users.php:233
+#: admin/knews_admin_users.php:326
+msgid "State"
+msgstr "状态"
+
+#: Text in function
+#: knews.php:520
+msgid "Stats"
+msgstr "统计"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:72
+msgid "Status"
+msgstr "状态"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:69
+msgid "Submit end"
+msgstr "发送结束"
+
+msgid "Submit"
+msgstr "发送"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Submit error."
+msgstr "发送错误。"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:197
+msgid "Submit newsletter"
+msgstr "发送电子简讯"
+
+msgid "Continue editing"
+msgstr "继续编辑"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:68
+msgid "Submit start"
+msgstr "发送开始"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:2
+#: knews.php:520
+msgid "Submits"
+msgstr "发送任务"
+
+#: Text in echo
+#: admin/knews_admin_import.php:387
+msgid "Subscribe all users to the following mailing lists:"
+msgstr "为所有用户订阅一下邮件列表"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+#: knews.php:520
+msgid "Subscribers"
+msgstr "订阅人"
+
+#: Text in echo
+#: admin/knews_admin_users.php:245
+#: admin/knews_admin_users.php:326
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: Text in echo
+#: admin/knews_admin_config.php:208
+msgid "Submit method"
+msgstr "发送方式"
+
+#: Text in function
+#: knews.php:520
+msgid "Today, at"
+msgstr "今天，在"
+
+#: Text in function
+#: knews.php:520
+msgid "Tomorrow, at"
+msgstr "明天，在"
+
+#: Text in function
+#: knews.php:520
+msgid "at"
+msgstr "在"
+
+#: Text in function
+#: knews.php:520
+msgid "Yesterday, at"
+msgstr "昨天，在"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:155
+msgid "Template"
+msgstr "模板"
+
+#: Text in echo
+#: admin/knews_admin_config.php:223
+msgid "Test SMTP config"
+msgstr "测试SMTP配置"
+
+#: Text in echo
+#: admin/knews_admin_config.php:148
+msgid "The WPML plugin was not detected, multilingual options are not functional"
+msgstr "没有检测到WPML插件，多语言选项未能生效"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+msgstr "目录 /wp-content/plugins/knews/tmp 必须为可写 (chmod 700)"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field already exists"
+msgstr "字段已存在"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field has been added"
+msgstr "字段已添加"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field name can't be empty"
+msgstr "字段名称不能为空"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The fields have been updated"
+msgstr "字段已更新"
+
+#: Text in echo
+#: admin/knews_admin_import.php:90
+msgid "The first row is a header"
+msgstr "第一行为表头"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "The last execution was done"
+msgstr "最近一次执行完成于"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:124
+msgid "The newsletter doesn't exists"
+msgstr "邮件列表不存在"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "The newsletter has been created successfully"
+msgstr "邮件列表已成功创建"
+
+#: Text in echo
+#: admin/knews_admin_users.php:176
+msgid "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+msgstr "令牌(Token)用来在电子简讯中插入字段。必须位于 % 之间，不含空格，例如： %name%"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and an e-mail confirmation has been sent"
+msgstr "该用户已添加并且邮件确认已发送"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and from now on he will receive the newsletters"
+msgstr "该用户已添加并且从现在起该用户将收到电子简讯"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added but an error occurred in sending e-mail confirmation"
+msgstr "该用户已添加但是在发送确认邮件时出错"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has not been inserted"
+msgstr "该用户未能添加"
+
+#. does it mean the user was imported earlier, or the user already exists?
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user was already introduced"
+msgstr "该用户已存在"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "There is already another newsletter with the same name!"
+msgstr "已有另一个同名电子简讯！"
+
+#: Text in echo
+#: admin/knews_admin_import.php:651
+msgid "There have been created:"
+msgstr "已创建："
+
+#: Text in echo
+#: admin/knews_admin_import.php:653
+msgid "There have been updated:"
+msgstr "已更新："
+
+#. context please
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "This field is required to take it in some column"
+msgstr "该字段必须由指定栏中提取"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Time"
+msgstr "时间"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:174
+msgid "Token"
+msgstr "令牌(Token)"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "The single e-mail has been sent to:"
+msgstr "单封邮件已被发送至："
+
+#: Text in function
+#: knews.php:1
+msgid "Unique language"
+msgstr "唯一语言"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Unknown language"
+msgstr "未知语言"
+
+#: Text in echo
+#: admin/knews_admin_users.php:154
+msgid "Update fields"
+msgstr "更新字段"
+
+#: Text in echo
+#: admin/knews_admin_users.php:260
+msgid "Update user"
+msgstr "更新用户"
+
+#: Text in echo
+#: admin/knews_admin_config.php:153
+msgid "Use the WPML defined languages to operate Knews in multilanguage mode"
+msgstr "使用WPML定义的语言让Knews以多语言模式运行"
+
+msgid "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+msgstr "使用qTranslate定义的语言让Knews以多语言模式运行"
+
+msgid "Operate Knews as monolingual"
+msgstr "以单语言模式运行Knews"
+
+msgid "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+msgstr "未能检测到多语言插件。Knews可与qTranslate和WPML插件协同工作。"
+
+msgid "qTranslate: free plugin"
+msgstr "qTranslate：免费插件"
+
+msgid "WPML: commercial plugin"
+msgstr "WPML：商业插件"
+
+msgid "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+msgstr "注意：Knews作者与qTranslate或WMPL的作者并无关联。"
+
+msgid "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+msgstr "如果你现在离开此页，电子简讯的变化将会丢遗失。请取消并点击“保存”按钮 (蓝色)"
+
+msgid "The multilanguage plugin has stopped working."
+msgstr "多语言插件已停止运行"
+
+msgid "Welcome to Knews."
+msgstr "欢迎使用Knews。"
+
+msgid "Please, go to %s configuration page"
+msgstr "请前往 %s 配置页面"
+
+msgid "Don't show this message again [x]"
+msgstr "不再显示此消息 [x]"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "The user already exists"
+msgstr "该用户已存在"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "User data updated"
+msgstr "用户数据已更新"
+
+#: Text in function
+#: admin/knews_admin_users.php:263
+msgid "User not found"
+msgstr "未找到用户"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:70
+msgid "Users"
+msgstr "用户"
+
+#: Text in function
+#: admin/knews_admin_users.php:460
+msgid "There are not yet users"
+msgstr "还未有用户"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Users unconfirmed (You should do confirmation manually):"
+msgstr "用户未确认 (你应该手动确认)："
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+msgstr "发送确认邮件给未确认用户 (非锁定用户)"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Using special characters (accents) correctly coded"
+msgstr "使用正确编码的特殊字符(重音符)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Value"
+msgstr "内容"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+#: admin/knews_admin_users.php:464
+msgid "Wrong e-mail"
+msgstr "错误邮件"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Wrong state"
+msgstr "错误状态"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Yes"
+msgstr "是"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+msgstr "你不能给延迟发送排期。你必须保留辅助视窗(JavaScript CRON模拟器)开启直至发送结束。"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a name for the new newsletter!"
+msgstr "你必须为新电子简讯选择一个名称！"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a template!"
+msgstr "你必须选择一个模板。"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "You must upload a file."
+msgstr "你必须上传一个文件。"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "You should be seeing the header and the four first lines of the CSV:"
+msgstr "你应该看到CSV的表头和前四行。"
+
+msgid "widget_title"
+msgstr "订阅"
+
+msgid "widget_label_email"
+msgstr "电子邮件："
+
+msgid "Widget submit button"
+msgstr "Widget 提交按钮"
+
+msgid "widget_button"
+msgstr "发送"
+
+msgid "You were already a subscriber (AJAX message)"
+msgstr "你已经是订阅人 (AJAX 消息)"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription"
+msgstr "我们刚刚发送了一封邮件以确认你的订阅"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_direct"
+msgstr "你已成功订阅"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_oops"
+msgstr "你之前已经订阅"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_error"
+msgstr "发送确认邮件时出错"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_wrong_email"
+msgstr "你的邮件地址似乎有误。请退回检查。"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_subject"
+msgstr "电子简讯订阅"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_body"
+msgstr "<p>你要求订阅 #blog_name# 的电子简讯，你必需点击 <a href=\"#url_confirm#\">这里</a> 以确认该订阅.</p><p>你可以将网址粘贴到浏览器：<br>#url_confirm#</p>"
+
+#: Text in echo
+#: dialogs.php:28
+msgid "subscription_ok_title"
+msgstr "你的订阅已确认。"
+
+#: Text in echo
+#: dialogs.php:29
+msgid "subscription_ok_message"
+msgstr "从现在起，你将会收到我们的电子简讯。<br><br><strong>谢谢！</strong>"
+
+#: Text in echo
+#: dialogs.php:35
+msgid "subscription_error_title"
+msgstr "订阅错误"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_error_message"
+msgstr "请重试。如有需要，请复制整个链接到浏览器地址栏。<br><br><strong>不便之处，敬请见谅。</strong>"
+
+#: Text in echo
+#: dialogs.php:49
+msgid "subscription_stop_error_title"
+msgstr "取消订阅失败"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_stop_error_message"
+msgstr "请重试。如有需要，复制整个电子邮件链接到浏览器地址栏。不便之处，敬请见谅。"
+
+#: Text in echo
+#: dialogs.php:42
+msgid "subscription_stop_ok_title"
+msgstr "你的订阅已取消"
+
+#: Text in echo
+#: dialogs.php:43
+msgid "subscription_stop_ok_message"
+msgstr "从现在起，你将不再收到我们的电子简讯。谢谢。"
+
+#: Text in echo
+#: dialogs.php:52
+msgid "dialogs_close_button"
+msgstr "关闭"
+
+#. is this a programming variable? shall i translate or keep it as is?
+#: Text in echo
+#: admin/knews_admin_import.php:373
+msgid "year-month-day"
+msgstr "年-月-日"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:236
+msgid "blocked"
+msgstr "已屏蔽"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "can't create the mailing list"
+msgstr "无法创建邮件列表"
+
+#: Text in function
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_users.php:235
+msgid "confirmed"
+msgstr "已确认"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "deleted"
+msgstr "已删除"
+
+#. in the import wizard, you choose in a combo box the CSV date format
+#: Text in echo
+#: admin/knews_admin_import.php:371
+msgid "day-month-year"
+msgstr "日-月-年"
+
+#. better verify with context
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+msgstr "如果不是，修改分隔符和/或闭合符。再点击“重新扫描CSV”："
+
+#. context pls
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "introduce value"
+msgstr "指定内容"
+
+#. in the import wizard, you choose in a combo box the CSV date format
+#: Text in echo
+#: admin/knews_admin_import.php:372
+msgid "month-day-year"
+msgstr "月-日-年"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "minutes ago"
+msgstr "分钟前"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:167
+msgid "never"
+msgstr "从不"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_users.php:234
+msgid "not confirmed"
+msgstr "未确认"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+msgid "Language not detected!"
+msgstr "语言未检测到！"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "test mode"
+msgstr "测试模式"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "there is already a list with this name!"
+msgstr "已有一个同名列表！"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+#: admin/knews_admin_import.php:646
+#: admin/knews_admin_import.php:649
+#: admin/knews_admin_import.php:651
+#: admin/knews_admin_import.php:653
+#: admin/knews_admin_import.php:665
+#: admin/knews_admin_import.php:668
+#: admin/knews_admin_users.php:394
+msgid "users"
+msgstr "用户"
+
+#. need context
+#: Text in echo
+#: phpscanner.php:17
+msgid "E-mail on automatically import (body)"
+msgstr "自动导入时的邮件 (正文)"
+
+#. need context
+#: Text in echo
+#: phpscanner.php:16
+msgid "E-mail on automatically import (title)"
+msgstr "自动导入时的邮件 (主题)"
+
+#: Text in echo
+#: phpscanner.php:26
+msgid "Close Button Caption"
+msgstr "关闭按钮标题"
+
+#: Text in echo
+#: phpscanner.php:15
+msgid "Confirmation E-mail (body)"
+msgstr "确认邮件 (正文)"
+
+#: Text in echo
+#: phpscanner.php:14
+msgid "Confirmation E-mail (subject)"
+msgstr "确认邮件 (主题)"
+
+#: Text in echo
+#: phpscanner.php:21
+msgid "Subscription Error Dialog (Message)"
+msgstr "订阅出错对话框 (消息)"
+
+#: Text in echo
+#: phpscanner.php:20
+msgid "Subscription Error Dialog (Title)"
+msgstr "订阅出错对话框 (标题)"
+
+#: Text in echo
+#: phpscanner.php:19
+msgid "Subscription OK Dialog (Message)"
+msgstr "订阅成功对话框 (消息)"
+
+#: Text in echo
+#: phpscanner.php:18
+msgid "Subscription OK Dialog (Title)"
+msgstr "订阅成功对话框 (标题)"
+
+#: Text in echo
+#: phpscanner.php:11
+msgid "Subscription done, you were already subscribed (AJAX message)"
+msgstr "订阅完成，你之前已经订阅 (AJAX 消息)"
+
+#: Text in echo
+#: phpscanner.php:10
+msgid "We have sent you a confirmation e-mail (AJAX message)"
+msgstr "我们已发送一封确认邮件给你 (AJAX 消息)"
+
+#: Text in echo
+#: phpscanner.php:13
+msgid "Subscription error (AJAX message)"
+msgstr "订阅错误 (AJAX 消息)"
+
+#: Text in echo
+#: phpscanner.php:23
+msgid "UnSubscribe Error Dialog (Message)"
+msgstr "退订出错对话框 (消息)"
+
+#: Text in echo
+#: phpscanner.php:22
+msgid "UnSubscribe Error Dialog (Title)"
+msgstr "退订出错对话框 (标题)"
+
+#: Text in echo
+#: phpscanner.php:25
+msgid "UnSubscribe OK Dialog (Message)"
+msgstr "退订成功对话框 (消息)"
+
+#: Text in echo
+#: phpscanner.php:24
+msgid "UnSubscribe OK Dialog (Title)"
+msgstr "退订成功对话框 (标题)"
+
+#: Text in echo
+#: phpscanner.php:9
+msgid "Wrong e-mail address, please check (AJAX message)"
+msgstr "错误邮件地址，请检查 (AJAX 消息)"
+
+#: Text in echo
+#: phpscanner.php:36
+msgid "email_importation_body"
+msgstr "<p>你已订阅 #blog_name# 的电子简讯，你应该点击 <a href=\"#url_confirm#\">这里</a> 以确认该订阅.</p><p>你可以将网址粘贴到浏览器：<br>#url_confirm#</p>"
+
+#: Text in echo
+#: phpscanner.php:35
+msgid "email_importation_subject"
+msgstr "电子简讯订阅"
+
+msgid "deleted list"
+msgstr "已删除列表"
+
+msgid "Total errors:"
+msgstr "总计错误："
+
+msgid "User deleted"
+msgstr "用户已删除"
+
+msgid "Edit this user"
+msgstr "编辑该用户"
+
+msgid "Activate this user"
+msgstr "激活该用户"
+
+#. activate a user or a function? context pls.
+msgid "Activate"
+msgstr "激活"
+
+msgid "Delete definitively this user"
+msgstr "彻底删除该用户"
+
+msgid "Block this user"
+msgstr "屏蔽该用户"
+
+msgid "Block"
+msgstr "屏蔽"
+
+msgid "Batch actions"
+msgstr "批量操作"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Only update"
+msgstr "仅更新"
+
+msgid "Only delete"
+msgstr "仅删除"
+
+msgid "See fails"
+msgstr "查看错误记录"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Progress"
+msgstr "进度"
+
+msgid "Rename this list"
+msgstr "重命名该列表"
+
+msgid "See this list users"
+msgstr "查看该列表用户"
+
+msgid "Delete definitively this newsletter"
+msgstr "彻底删除该电子简讯"
+
+msgid "Edit this newsletter"
+msgstr "编辑该电子简讯"
+
+msgid "Rename this newsletter"
+msgstr "重命名该电子简讯"
+
+msgid "Open a preview in a new window"
+msgstr "在新窗口中开启预览"
+
+msgid "Submit this newsletter"
+msgstr "发送该电子简讯"
+
+msgid "Change the priority"
+msgstr "改变优先级"
+
+msgid "Set the current date and time as start submit time"
+msgstr "设置当前日期时间为开始发送时间"
+
+msgid "Pause this submit"
+msgstr "暂停发送任务"
+
+msgid "Remove pause, continue submit"
+msgstr "取消暂停，继续发送任务"
+
+msgid "Start now"
+msgstr "现在开始"
+
+msgid "See report fails by SMTP server"
+msgstr "查看SMTP服务器报告的错误记录"
+
+msgid "Stop and delete this submit now"
+msgstr "现在停止并删除发送任务"
+
+msgid "Error: This newsletter does not exist"
+msgstr "错误：该电子简讯不存在"
+
+msgid "Do you really want to delete this module?"
+msgstr "你真的要删除该模块？"
+
+msgid "Move module"
+msgstr "移动模块"
+
+msgid "Delete module"
+msgstr "删除模块"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Posts"
+msgstr "文章"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Reset all alerts"
+msgstr "重设所有警报"
+
+msgid "Reset all messages to default values (all languages at once)"
+msgstr "重设所有消息至预设内容 (所有语言一起)"
+
+#. those MESSAGES = those EMAILS?
+msgid "Knews will try to resend those messages which have reported error"
+msgstr "Knews将会尝试重新发送被报告出错的邮件"
+
+#. those = those EMAIL?
+msgid "Resubmit those which have reported error"
+msgstr "重新发送被报告出错的邮件"
+
+msgid "Retry"
+msgstr "重试"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1. Select the users you want to export:"
+msgstr "1. 选择你想要导出的用户："
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.1. Select the lists to export:"
+msgstr "1.1. 选择要导出的列表："
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.2. Select the languages to export:"
+msgstr "1.2. 选择要导出的语言："
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "2. Format options:"
+msgstr "2. 格式选项："
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "E-mail"
+msgstr "电子邮件"
+
+#: Text in echo
+#: knews_admin_export.php:71
+#: knews_admin_export.php:195
+msgid "Export users"
+msgstr "到处用户"
+
+#: Text in echo
+#: knews_admin_export.php:189
+msgid "Insert a header in the first row"
+msgstr "在第一行插入表头"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "No users match criteria"
+msgstr "没有符合条件的用户"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "Select at least one list and one language."
+msgstr "至少选择一个列表和一种语言。"
+
+#: Text in function
+#: knews_admin_export.php:142
+msgid "To download the .CSV, click %s here"
+msgstr "要下载 .CVS，请点击 %s 这里"
+
+msgid "Export CSV"
+msgstr "导出CSV"
+
+msgid "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+msgstr "注意：标记全部列表和想要的语言以按照语言过滤，或者全部语言和想要的列表来按照列表过滤，"
+
+msgid "...or all lists and all languages to export all users."
+msgstr "……或者全部列表和全部语言来导出全部用户。"
+
+msgid "%s users have been exported."
+msgstr "%s 用户已导出。"
+
+msgid "Lists"
+msgstr "列表"
+
+msgid "Edit image"
+msgstr "编辑图片"
+
+msgid "Insert post/page content"
+msgstr "插入文章或页面内容"
+
+msgid "Free text content"
+msgstr "任意文字内容"
+
+msgid "Resize toolbox"
+msgstr "调整工具箱大小"
+
+msgid "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+msgstr "警告！IE 6/7 无法编辑电子简讯！此编辑器使用HTML5属性，你需要升级到至少IE8，或者使用新款Firefox, Chrome或Safari。"
+
+msgid "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+msgstr "警告！Opera无法编辑电子简讯。你必须使用新款Firefox, Chrome, Safari或至少 Internet Explorer 8。"
+
+msgid "Warning! You should activate JavaScript to edit newsletters!"
+msgstr "警告！你应该启用 JavaScript 来编辑电子简讯！"
+
+msgid "No submits yet. First go to Newsletters, create one, and then submit it."
+msgstr "暂无发送记录。请先前往电子简讯创建一条后再发送。"
+
+msgid "Error: I can't write the .CSV file."
+msgstr "错误：无法写入 .CSV 文件。"
+
+msgid "User join date"
+msgstr "用户加入日起"
+
+msgid "All: today"
+msgstr "全部：今天"
+
+msgid "See log"
+msgstr "查看日志"
+
+msgid "See the complete submit log"
+msgstr "查看完整发送日志"
+
+msgid "Alerts and logs"
+msgstr "警告和日志"
+
+msgid "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+msgstr "发送时写入日志 (在 /wp-content/plugins/knews/tmp 目录)"
+
+msgid "Go to template page"
+msgstr "前往模板页面"
+
+msgid "Redirecting to editor..."
+msgstr "重定向至编辑器……"
+
+msgid "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+msgstr "发送至以 @knewstest.com 结尾邮箱 (如 testing001@knewstest.com 或 xxx@knewstest.com) 的邮件将会被发送至：%s 作为测试目的"
+
+msgid "List deleted"
+msgstr "列表已删除"
+
+msgid "Submit start time updated"
+msgstr "发送开始时间已更新"
+
+msgid "List name updated"
+msgstr "列表名称已更新"
+
+msgid "Submit deleted"
+msgstr "发送任务已删除"
+
+msgid "Submit priority updated"
+msgstr "发送优先级已更新"
+
+msgid "Use WordPress's built-in CRON framework."
+msgstr "使用 WordPress 内建的 CRON 框架。"
+
+msgid "This option no requires configuration, but in less traffic sites can be slow to submit"
+msgstr "该选项无需配置，但访问量较少的站点会发送缓慢。"
+
+msgid "Use the JavaScript CRON emulation."
+msgstr "使用 JavaScript CRON 模拟器。"
+
+msgid "This option requires you to keep a window open during submission and does not allow deferred submits"
+msgstr "该选项需要你在发送期间将一个视窗保持开启并不允许延迟发送。"
+
+msgid "Check all mailing lists"
+msgstr "选中所有邮件列表"
+
+msgid "Uncheck all mailing lists"
+msgstr "取消选中所有邮件列表"
+
+msgid "Duplicate"
+msgstr "复制"
+
+msgid "Duplicate this newsletter"
+msgstr "复制该电子简讯"
+
+msgid "Apply changes and refresh image"
+msgstr "应用变更并刷新图片"
+
+msgid "Undo image changes"
+msgstr "撤销图片变更"
+
+msgid "Properties of image"
+msgstr "图片属性"
+
+msgid "Select one or more lists"
+msgstr "选择一个或多个列表"
+
+msgid "No active users in the selected list, nothing programmed to send."
+msgstr "选中的列表中没有激活用户，未安排发送任务。"
+
+msgid "Configure CRON tutorial"
+msgstr "CRON 配置教程"
+
+msgid "You must add this line in your webserver CRONTAB:"
+msgstr "你必须在你的网页服务器的 CRONTAB 中添加此行："
+
+msgid "Configure SMTP tutorial"
+msgstr "SMTP 配置教程"
+
+msgid "The language can't be localized"
+msgstr "该语言无法本地化"
+
+msgid "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+msgstr "你处于图片编辑模式。在进行其他操作前，你必须点击“应用”或“撤销”图片变更(或按ESC键盘)。"
+
+msgid "Image alt:"
+msgstr "图片替代文本(ALT)："
+
+msgid "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+msgstr "替代文本非常重要，因为绝大多数邮件客户端屏蔽了初始图片加载并显示图片替代文本。"
+
+msgid "Image link:"
+msgstr "图片链接："
+
+msgid "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+msgstr "如果你想要在图片上放置一个链接，请输入 URL，如：http://www.mysite.com/mypage.html"
+
+msgid "Multilanguage"
+msgstr "多语言"
+
+msgid "Make your own templates how-to"
+msgstr "如何制作你自己的模板"
+
+msgid "From date:"
+msgstr "由："
+
+msgid "to date:"
+msgstr "至："
+
+msgid "last 7 days"
+msgstr "最近7天"
+
+msgid "last 30 days"
+msgstr "最近30天"
+
+msgid "last week"
+msgstr "最近一周"
+
+msgid "last month"
+msgstr "最近一月"
+
+msgid "The date range you have selected is not available."
+msgstr "你选择的日期范围不可用。"
+
+msgid "Current status of subscriptions"
+msgstr "当前订阅状态"
+
+msgid "Active users:"
+msgstr "激活用户："
+
+msgid "Not confirmed:"
+msgstr "未确认："
+
+msgid "Unsubscribed users:"
+msgstr "退订用户："
+
+msgid "Total:"
+msgstr "总计："
+
+msgid "Currently have no subscribers."
+msgstr "目前没有订阅人。"
+
+msgid "Accumulated sign ups and unsubscribes from date:"
+msgstr "自该日期起的累积订阅和退订："
+
+msgid "You must select a right date range"
+msgstr "你必须选择正确的日期范围"
+
+msgid "Sign ups"
+msgstr "订阅"
+
+msgid "Unsubscriptions"
+msgstr "退订"
+
+msgid "Sendings"
+msgstr "发送"
+
+msgid "Sendings OK"
+msgstr "发送成功"
+
+msgid "Sendings Error"
+msgstr "发送失败"
+
+msgid "Cant read"
+msgstr "无法阅读"
+
+msgid "Total clicks"
+msgstr "总计点击"
+
+msgid "Newsletters & clicks from date:"
+msgstr "自该日期起的电子简讯和点击："
+
+msgid "Link clicks"
+msgstr "链接点击"
+
+msgid "Total submits"
+msgstr "总计发送"
+
+msgid "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+msgstr "错误：请确定目录 %s 存在并有写入权限 (chmod 700). "
+
+msgid "Error: there is no image selected"
+msgstr "错误：未选择图片"
+
+msgid "Knews updated the database successfully. Welcome to %s version."
+msgstr "Knews 已成功更新数据库。欢迎使用 %s 版本。"
+
+msgid "Customize widget messages"
+msgstr "订制 widget 消息"
+
+#. user cant be understood? i guess i cannot understand that user either. ;-P please clarify what this sentence means. thx!
+msgid "Sign up date user cant be understood"
+msgstr "用户注册日期无法识别"
+
+msgid "SQL Error while inserting user"
+msgstr "加入用户时出现SQL错误"
+
+msgid "SQL Error while updating user"
+msgstr "更新用户时出现SQL错误"
+
+msgid "Warning: the email has no subject! %s Edit it again before submit!"
+msgstr "警告：邮件缺少主题！ %s 请重新编辑再提交！"
+
+msgid "Warning: %sConfigure sender name before submit!"
+msgstr "警告： %s 请先配置发件人姓名再提交！"
+
+msgid "text_direction"
+msgstr "ltr"
+
+msgid "cant_read_text_1"
+msgstr "如果你無法閱讀此郵件請點擊"
+
+msgid "cant_read_text_link"
+msgstr "這裡"
+
+msgid "cant_read_text_2"
+msgstr " "
+
+msgid "unsubscribe_text_1"
+msgstr "如果你希望退订邮件列表，请点击"
+
+msgid "unsubscribe_text_link"
+msgstr "这里"
+
+msgid "unsubscribe_text_2"
+msgstr " "
+
+msgid "Sign Ups & Blocks"
+msgstr "注册与屏蔽"
+
+msgid "Use the CRON server (recommended)"
+msgstr "使用CRON服务器(推荐)"
+
+msgid "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+msgstr "文字方向，由左至右或由右至左：使用 <span style=\"color:#e00\">ltr</span> 或 <span style=\"color:#e00\">rtl</span>"
+
+msgid "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+msgstr "默认对齐 (由左至右的语言：<span style=\"color:#e00\">left</span> 由右至左的语言： <span style=\"color:#e00\">right</span>)"
+
+msgid "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+msgstr "反向对齐 (由左至右的语言：<span style=\"color:#e00\">right</span> 由右至左的语言： <span style=\"color:#e00\">left</span>)"
+
+msgid "Cant read text 1"
+msgstr "无法阅读文字1"
+
+msgid "Cant read text link"
+msgstr "无法阅读文字链接"
+
+msgid "Cant read text 2"
+msgstr "无法阅读文字2"
+
+msgid "Unsubscribe text 1"
+msgstr "退订文字1"
+
+msgid "Unsubscribe text link"
+msgstr "退订文字链接"
+
+msgid "Unsubscribe text 2"
+msgstr "退订文字2"
+
+msgid "default_alignment"
+msgstr "left"
+
+msgid "inverse_alignment"
+msgstr "right"
+
+msgid "The read more text link"
+msgstr "阅读更多文字链接"
+
+msgid "read_more_link"
+msgstr "继续阅读"
+
+msgid "Image URL:"
+msgstr "图片URL："
+
+msgid "Image align:"
+msgstr "图片对齐："
+
+msgid "Apply changes"
+msgstr "应用改动"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Fast selection:"
+msgstr "快速选择："
+
+msgid "You are downgraded the version of Knews, you can lose data, please update quickly"
+msgstr "你的Knews已降级，你可能丢失数据，请速更新"
+
+msgid "http://www.knewsplugin.com/tutorial/"
+msgstr "http://www.knewsplugin.com/tutorial/"
+
+msgid "http://www.knewsplugin.com/configure-smtp-submits/"
+msgstr "http://www.knewsplugin.com/configure-smtp-submits/"
+
+msgid "http://www.knewsplugin.com/configure-webserver-cron/"
+msgstr "http://www.knewsplugin.com/configure-webserver-cron/"
+
+msgid "Multisite detected. Only one instance of %s must be called for all websites."
+msgstr "检测到多站点模式。只有一个 %s 的实例需要被所有站点调用。"
+
+msgid "Cant create the automated submit"
+msgstr "无法创建自动发送"
+
+msgid "Widget \"%s\" label form"
+msgstr "Widget “%s” 标签表格"
+
+msgid "Auto-create"
+msgstr "自动创建"
+
+msgid "Knews Post Options"
+msgstr "Knews 文章选项"
+
+msgid "Add a subscription form into the sidebar"
+msgstr "在边栏添加订阅表格"
+
+msgid "Dont ask"
+msgstr "不要询问"
+
+msgid "Not required"
+msgstr "选填"
+
+msgid "Required"
+msgstr "必填"
+
+msgid "Automated process deleted"
+msgstr "自动进程已删除"
+
+msgid "Automated process activated"
+msgstr "自动进程已启用"
+
+msgid "Automated process deactivated"
+msgstr "自动进程已停用"
+
+msgid "Automated submit activated"
+msgstr "自动发送任务已启用"
+
+msgid "Manual submit activated"
+msgstr "手动发送任务已启用"
+
+msgid "Automated submit created"
+msgstr "自动发送任务已创建"
+
+msgid "Error: the name cant be empty"
+msgstr "错误：名称不能为空"
+
+msgid "Error: there is already an automated submit with this name"
+msgstr "错误：已经存在同名的自动发送任务"
+
+msgid "Auto-create Newsletters"
+msgstr "自动创建电子简讯"
+
+msgid "Automated process name"
+msgstr "自动进程名称"
+
+msgid "Target"
+msgstr "目标"
+
+#. a user or a function is activated? context pls.
+msgid "Activated"
+msgstr "已启用"
+
+msgid "Automatic submit"
+msgstr "自动发送"
+
+msgid "Method"
+msgstr "方法"
+
+msgid "Last run"
+msgstr "最后运行"
+
+msgid "Activate/deactivate the automated task"
+msgstr "激活/停用自动任务"
+
+msgid "Deactivate"
+msgstr "停用"
+
+msgid "Automatic/Manual submits of auto-created newsletters"
+msgstr "自动/手动提交自动生成的电子简讯"
+
+msgid "Delete definitively this automated task"
+msgstr "彻底删除该自动任务"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "On"
+msgstr "开启"
+
+msgid "Automated submit"
+msgstr "自动发送任务"
+
+msgid "Manual submit"
+msgstr "手动发送任务"
+
+msgid "Automated submits"
+msgstr "自动发送任务"
+
+msgid "At the moment there is no automated task, you can create new ones"
+msgstr "目前没有自动创建的任务，你可以创建一个新的"
+
+msgid "New Auto-creation Process"
+msgstr "新自动创建进程"
+
+msgid "Auto-create Newsletters Tutorial"
+msgstr "自动创建电子简讯教程"
+
+msgid "Get posts from language:"
+msgstr "由该语言获取文章："
+
+msgid "Use as template:"
+msgstr "作为模版："
+
+msgid "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+msgstr "你必须首先创建包含可插入信息的电子简讯(保留 %the_content%, %the_title% 等)"
+
+msgid "Create a newsletter every %s posts"
+msgstr "每 %s 篇文章创建一份电子简讯"
+
+msgid "Error: there are no mailing lists"
+msgstr "错误：没有邮件列表"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+msgid "Automated options"
+msgstr "自动选项"
+
+msgid "Include the posts in the automated newsletters (default value for the new created posts)"
+msgstr "在自动生成的电子简讯中加入这些文章 (新创建文章默认值)"
+
+msgid "Manual Newsletters"
+msgstr "手动电子简讯"
+
+msgid "Auto-created Newsletters"
+msgstr "自动创建的电子简讯"
+
+msgid "There is no auto-created newsletter."
+msgstr "没有自动创建的电子简讯。"
+
+msgid "http://www.knewsplugin.com/automated-newsletter-creation/"
+msgstr "http://www.knewsplugin.com/automated-newsletter-creation/"
+
+msgid "widget_label_name"
+msgstr "名字："
+
+msgid "widget_label_surname"
+msgstr "姓氏："
+
+msgid "General options"
+msgstr "一般选项"
+
+msgid "Include this post in the automated newsletters?"
+msgstr "在自动生成的电子简讯中加入此文章？"
+
+msgid "This post has been included into:"
+msgstr "此文章已经被加入到："
+
+msgid "This post still not included into any automated newsletter."
+msgstr "此文章还未加入到任何自动创建的电子简讯。"
+
+msgid "Active process:"
+msgstr "当前进程："
+
+msgid "Newsletter creation options"
+msgstr "电子简讯创建选项"
+
+msgid "Create a newsletter every x amount of time"
+msgstr "每 X 时间自动创建一份电子简讯。"
+
+msgid "Newsletter submit options"
+msgstr "电子简讯发送选项"
+
+msgid "Target for newsletter:"
+msgstr "电子简讯目标用户："
+
+msgid "Submit method:"
+msgstr "发送方式："
+
+msgid "Messages reset to defaults."
+msgstr "消息重设为默认值。"
+
+msgid "(high performance SMTP)"
+msgstr "(高性能SMTP)"
+
+msgid "All categories"
+msgstr "全部分类"
+
+#. does it mean fill in all fields of the form?
+msgid "Error: Please, fill all the form"
+msgstr "错误：请完整填写表格"
+
+msgid "Mantain current data and add new mailing lists"
+msgstr "保留当前数据并添加新的邮件列表"
+
+#. context please. would be very tricky in Chinese, as in Chinese we normally say "A's B", not "B of A".
+msgid "of"
+msgstr " / "
+
+msgid "SMTP Secure"
+msgstr "SMTP安全"
+
+msgid "Step"
+msgstr "步骤"
+
+msgid "Submit automatic"
+msgstr "自动发送"
+
+msgid "This template requires Knews version %s you must update Knews before use this template"
+msgstr "该模板需要Knews %s 版本，你必须在使用该模板前升级 Knews "
+
+msgid "This template requires the professional version of Knews. You can get it %s here"
+msgstr "改模板需要专业版Knews。你可以在 %s 这里获取"
+
+msgid "Compatibility options"
+msgstr "兼容性选项"
+
+msgid "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+msgstr "<strong>Knews 现已注册</strong>。前往 %s 插件管理 %s 并点击 Knews “检查更新”链接以获得升级。谢谢惠顾。"
+
+msgid "Knews runs every hour the automated newsletter creation jobs."
+msgstr "Knews每小时运行一次自动电子简讯创建任务。"
+
+msgid "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+msgstr "你可以现在手动激发该任务 (只推荐用于测试目的) %s 立刻运行自动创建"
+
+msgid "Knews submit runs every 10 minutes and sends a portion of the list."
+msgstr "Knews每10分钟运行一次发送任务，发送列表中的一部分邮件。"
+
+msgid "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+msgstr "如果你的电子简讯因为任何原因未能发送，你可以手动激发 JavaScript CRON： %s 立刻运行 JS-Cron"
+
+msgid "Widget subscription form title"
+msgstr "Widget 订阅表格标题"
+
+msgid "Widget latest newsletters title"
+msgstr "Widget 最新电子简讯标题"
+
+msgid "Mobile version text link"
+msgstr "手机版文字链接"
+
+msgid "Desktop version text link"
+msgstr "电脑版文字链接"
+
+msgid "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+msgstr "你已降级为Knews免费版，你可能丢失数据，请速更新！你可以 %s 在这里获得专业版"
+
+msgid "Max number of newsletters: <br />(-1 for infinite):"
+msgstr "电子简讯最多条数：<br /> (-1代表无限)："
+
+msgid "Hide not sent newsletters?"
+msgstr "隐藏未能发送的电子简讯？"
+
+msgid "Hide automated newsletters?"
+msgstr "隐藏自动生成的电子简讯？"
+
+msgid "Customize widget title"
+msgstr "订制Widget标题"
+
+msgid "Knews Pro options"
+msgstr "Knews专业版选项"
+
+msgid "Your e-mail (used for the Knews Shop account):"
+msgstr "你的邮箱 (用于Knews购物帐户)："
+
+msgid "Registration"
+msgstr "注册"
+
+msgid "Serial Key:"
+msgstr "序列号："
+
+msgid "(get it in our shop, login and click on \"My Downloads\" page)"
+msgstr "(进入我们的商店，登陆并点击“我的下载”页面)"
+
+msgid "Save Serial"
+msgstr "保存序列号"
+
+msgid "Bounce configuration"
+msgstr "退信配置"
+
+msgid "Bounce detection deactivated"
+msgstr "退信检测已停用"
+
+msgid "Bounce detection activated"
+msgstr "退信检测已启用"
+
+msgid "POP3 Mail host:"
+msgstr "POP3邮件主机："
+
+msgid "POP3 Port:"
+msgstr "POP3端口："
+
+msgid "User account:"
+msgstr "用户名："
+
+msgid "User password"
+msgstr "用户密码"
+
+msgid "Secure connection:"
+msgstr "安全连接："
+
+msgid "Before enabling the Bounce detection, enter the values and click on TEST button"
+msgstr "在启用退信检测前，输入各项内容并点击“测试”按钮"
+
+msgid "Test POP3 config"
+msgstr "测试POP3配置"
+
+msgid "Cant connect to POP3 mail server, please, check the configuration values"
+msgstr "无法连接至POP3邮件服务器，请检查配置内容"
+
+msgid "Bounce tutorial"
+msgstr "退信教程"
+
+msgid "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+msgstr "Knews专业版包含退信检测系统，它需要一个专用的帐号，如 bounce@yourdomain.com。首先，创建该帐号。接着，填写配置字段。然后，测试连接。如果各项功能运行正常，启用并保存。"
+
+msgid "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+msgstr "在自动创建的电子简讯中使用文章编辑日期而不是文章创建日期 (较旧的文章永远不会被自动加入，除非你编辑并启用此选项)"
+
+msgid "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+msgstr "在电子简讯文章插入时应用 the_content 过滤器 (因为与某些插件如 NextGen Gallery 的兼容性问题而停用)"
+
+msgid "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you cant deactivate this option, because it uses this filter to divide the post contents into different languages."
+msgstr "<strong>注意</strong>：如果你使用 <strong>qTranslate</strong>，你无法停用此选项，因为它使用该过滤器将文章内容分隔成不同的语言。"
+
+#. not sure what it means by 'Subscribe always fails "wrong e-mail adress" message'
+msgid "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+msgstr "预防机器注册。某些缓存插件可能需要停用此选项 (订阅总是失败，“错误的邮件地址”)"
+
+msgid "Premium options"
+msgstr "高级选项"
+
+msgid "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+msgstr "隐藏默认模版 (只有当至少一个模板安装在 /wp-content/uploads/knewstemplates/ 时才可用)"
+
+msgid "Hide Knews Shop Products offers"
+msgstr "隐藏Knews商店产品优惠信息"
+
+msgid "WordPress user syncronization"
+msgstr "WordPress用户同步"
+
+msgid "Subscribe new WordPress users to:"
+msgstr "将新WordPress用户订阅至："
+
+msgid "None"
+msgstr "无"
+
+msgid "Newsletter deleted"
+msgstr "电子简讯已删除"
+
+msgid "Newsletter name updated"
+msgstr "电子简讯名称已更新"
+
+msgid "Newsletter duplicated"
+msgstr "电子简讯已复制"
+
+msgid "Desktop and mobile versions"
+msgstr "电脑和手机版"
+
+msgid "Desktop version only"
+msgstr "仅电脑版"
+
+msgid "Unconfirmed"
+msgstr "未确认"
+
+msgid "Bounce"
+msgstr "退信"
+
+msgid "Bounced"
+msgstr "被退信"
+
+msgid "Mark as bounced email"
+msgstr "标记为被退信"
+
+#. a user or a function has been activated? context pls.
+msgid "Mark as activated"
+msgstr "标记为已激活"
+
+msgid "Mark as blocked"
+msgstr "标记为被屏蔽"
+
+msgid "Mark as bounced"
+msgstr "标记为被退信"
+
+msgid "Subscribe to list"
+msgstr "订阅至列表"
+
+msgid "Unsubscribe to list"
+msgstr "由列表退订"
+
+msgid "Choose one list"
+msgstr "选择一个列表"
+
+msgid "You dont have any mobile template!"
+msgstr "你没有任何手机模板！"
+
+msgid "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+msgstr "这是一个关于Knews所见即所得(WYSIWYG)编辑器的视频教程，%s 在YouTube观看"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+msgstr "抱歉，这是一项高级特性。请 %s 点击这里查看所有Knews专业版的特性。"
+
+msgid "Warning! You arent selected any mailing list, do you want to continue?"
+msgstr "警告！你没有选择任何邮件列表，你想要继续吗？"
+
+msgid "The field name cant be empty"
+msgstr "字段名成不能为空"
+
+msgid "Select the %s filtered subscribers to perform a massive action"
+msgstr "选择 %s 过滤的订阅人来进行批量操作"
+
+msgid "Select all your subscribers (%s) to perform a massive action"
+msgstr "选择你的所有订阅人 (%s) 来进行批量操作"
+
+msgid "Roles and capabilities saved."
+msgstr "角色与权限已保存。"
+
+msgid "Roles and capabilities"
+msgstr "角色与权限"
+
+msgid "Role name"
+msgstr "角色名称"
+
+msgid "Can see Knews Stats"
+msgstr "可查看Knews统计"
+
+msgid "Can manage newsletters"
+msgstr "可管理电子简讯"
+
+msgid "Can manage users"
+msgstr "可管理用户"
+
+msgid "Can configure Knews"
+msgstr "可配置Knews"
+
+msgid "All subscribers"
+msgstr "全部订阅人"
+
+msgid "Do WordPress user importation"
+msgstr "进行WordPress用户导入"
+
+msgid "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+msgstr "导入<strong>全部</strong>WordPress用户并加入此邮件列表："
+
+msgid "Assign the language:"
+msgstr "部署语言："
+
+msgid "Import WP users into Knews"
+msgstr "导入WP用户至Knews"
+
+msgid "Users imported: %s. Users found before (not re-imported): %s."
+msgstr "用户已导入：%s。用户已存在 (未重新导入)：%s。"
+
+msgid "Errors submitting confirmation: %s"
+msgstr "错误发送确认：%s"
+
+#. order = sort order? or book/purchase? or else?
+msgid "Order"
+msgstr "顺序"
+
+msgid "New Auto-create Newsletters Process"
+msgstr "新建自动创建电子简讯进程"
+
+msgid "Automated process name:"
+msgstr "自动进程名称："
+
+msgid "desktop_version_text_link"
+msgstr "电脑版"
+
+msgid "Knews Pro is currently installed."
+msgstr "Knews专业版目前已安装。"
+
+msgid "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+msgstr "只有由%s主站点仪表盘%s才能管理Knews升级。可能只有网络管理员才能进行。"
+
+msgid "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+msgstr "警告：如果你没有开放任何邮件列表，订阅widget将不会显示"
+
+msgid "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+msgstr "警告：你没有向登录用户开放任何邮件列表，订阅widget讲不会显示直至你退出登录。"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:164
+#: admin/knews_admin_lists.php:148
+msgid "Save changes"
+msgstr "保存改动"
+
+#: Text in function
+#: knews.php:520
+msgid "Subscribe me"
+msgstr "订阅"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:154
+msgid "WARNING"
+msgstr "警告"
+
+#: Text in echo
+#: admin/knews_admin_config.php:149
+msgid "here"
+msgstr "这里"
+
+msgid "Show/hide handlers"
+msgstr "显示/隐藏操作柄"
+
+msgid "Alerts"
+msgstr "警报"
+
+msgid "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+msgstr "你必须调用主站点 www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron 网址"
+
+msgid "mobile_version_text_link"
+msgstr "手机版"
+
+msgid "Widget %s label form"
+msgstr "Widget %s 标签表格"
+
+msgid "http://www.knewsplugin.com/automated-bounced-email-handling"
+msgstr "http://www.knewsplugin.com/automated-bounced-email-handling"
+
+msgid "Load SMTP defaults:"
+msgstr "加载SMTP默认值："
+
+msgid "Gmail SMTP"
+msgstr "Gmail SMTP"
+
+msgid "My hosting is 1&1"
+msgstr "我的主机在 1&1"
+
+msgid "My Hosting is GoDaddy"
+msgstr "我的主机在 GoDaddy"
+
+msgid "Yahoo SMTP"
+msgstr "Yahoo SMTP"
+
+msgid "<strong>Knews:</strong> Do you want to stay-in-touch about latest Knews features, tips and tricks? Please, subscribe to our newsletter %s here"
+msgstr "<strong>Knews:<strong> 你想要保持关注Knews的最新特性和实用技巧吗？请在%s这里订阅我们的电子简讯。"
+
+msgid "Prioritary Support"
+msgstr "优先支持"
+
+msgid "Prioritary Support for Knews Pro"
+msgstr "Knews专业版优先支持"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "E-mail:"
+msgstr "邮件："
+
+msgid "Please, explain your questions in English, Spanish or Catalan:"
+msgstr "请用英文、西班牙文或加泰罗尼亚语阐明你的问题："
+
+msgid "Close and Save Changes"
+msgstr "关闭并保存改动"
+
+msgid "Close and Discard Changes"
+msgstr "关闭并放弃改动"
+
+msgid "Custom Post Types configuration"
+msgstr "自定义文章类型配置"
+
+msgid "Custom Post Type"
+msgstr "自定义文章类型"
+
+msgid "Use in manual post selection"
+msgstr "在手动文章选择时使用"
+
+msgid "Use it for automate newsletters"
+msgstr "在自动电子简讯中使用"
+
+msgid "widget_required"
+msgstr "* 该字段必填"
+
+msgid "widget_label_terms"
+msgstr "我同意使用条款。"
+
+msgid "widget_subtitle"
+msgstr "订阅我们的电子简讯以了解最新动态："
+
+msgid "ajax_wrong_fields"
+msgstr "请检查必填字段"
+
