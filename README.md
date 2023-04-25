@@ -1,4 +1,4 @@
-# libreriadelestudiante.com
+# Secytec
 Sitio Web de la Secretaría de Ciencia y Tecnología de la Provincia de Salta desarrollada con Wordpress, PHP y Mysql.
 
 ![Login del Sistema](./Capturas/1-Home.JPG)
